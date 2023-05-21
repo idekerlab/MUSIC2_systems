@@ -8,7 +8,7 @@ AACS, ABCA2, ABCF3, ABCG1, ABHD17A, ABLIM1, ACBD3, ACBD5, ACOX3, ACTN4, ACVR1, A
 
 (Note: ran GPT4 query twice and collect the better)
 
-[old response](https://github.com/idekerlab/MUSIC2_systems/edit/main/May2023_final/Cluster2-0_chatgpt_response.md)
+[old response](https://github.com/idekerlab/MUSIC2_systems/blob/main/May2023_final/Cluster2-0_chatgpt_response.md)
 
 ### Summary
 
