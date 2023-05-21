@@ -8,7 +8,7 @@ AATF, ABCF3, ABT1, ACOX1, ACSF2, ACSL1, ACSL3, ACTL6B, ADAR, ADARB1, AFF4, AGTPB
 
 (Note: ran the GPT4 query twice and chosen the best) 
 
-[old response](https://github.com/idekerlab/MUSIC2_systems/edit/main/May2023_final/Cluster2-4_chatgpt_response.md)
+[old response](https://github.com/idekerlab/MUSIC2_systems/blob/main/May2023_final/Cluster2-4_chatgpt_response.md)
 
 ### Summary
 
