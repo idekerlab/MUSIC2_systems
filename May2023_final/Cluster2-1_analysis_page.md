@@ -8,7 +8,7 @@ AAGAB, AAK1, AAMDC, AAR2, AARS1, ABCE1, ABHD10, ABTB1, ACAT2, ACVR1B, ADA, ADCY9
 
 (Note: ran GPT4 query twice and picked the best)
 
-[old response](https://github.com/idekerlab/MUSIC2_systems/edit/main/May2023_final/Cluster2-1_chatgpt_response.md)
+[old response](https://github.com/idekerlab/MUSIC2_systems/blob/main/May2023_final/Cluster2-1_chatgpt_response.md)
 
 ### Summary:
 
