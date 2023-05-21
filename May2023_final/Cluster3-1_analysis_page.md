@@ -8,6 +8,8 @@ ABCA12, ABCB1, ABCB4, ABCC1, ABI1, ACIN1, ACKR3, ACOT9, ACTR10, ADAM10, ADAMTSL4
 
 (Note: ran the GPT4 query twice and picked the best)
 
+[old response](https://github.com/idekerlab/MUSIC2_systems/blob/main/May2023_final/Cluster3-1_chatgpt_response.md)
+
 ## Summary
 
 The human protein system analyzed here appears to be a membrane-associated protein interaction network, with proteins involved in various cellular processes such as cell adhesion, signal transduction, and cytoskeletal organization. The system includes proteins that are unique to this high-level system, as well as proteins that are part of child systems (Cluster4-14, Cluster4-15, Cluster4-25, Cluster4-42, Cluster4-45, Cluster4-48, Cluster4-51, Cluster4-55, Cluster4-57, Cluster4-60, and Cluster4-62).
