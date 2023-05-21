@@ -8,6 +8,8 @@ AACS, ABCA2, ABCF3, ABCG1, ABHD17A, ABLIM1, ACBD3, ACBD5, ACOX3, ACTN4, ACVR1, A
 
 (Note: ran GPT4 query twice and collect the better)
 
+[old response](https://github.com/idekerlab/MUSIC2_systems/edit/main/May2023_final/Cluster2-0_chatgpt_response.md)
+
 ### Summary
 
 The human protein system analyzed in this study consists of a high-level system with multiple child systems. The proteins in this system are physically close to each other and/or interact with each other. The goal of the analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex. The proteins in this system are involved in various cellular components, mechanisms, and biological processes. Based on the function and location of the proteins, the proposed name for this system is the "Cellular Interaction and Function System."
