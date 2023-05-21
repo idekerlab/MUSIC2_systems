@@ -8,6 +8,8 @@ AAGAB, AAK1, AAMDC, AAR2, AARS1, ABCE1, ABHD10, ABTB1, ACAT2, ACVR1B, ADA, ADCY9
 
 (Note: ran GPT4 query twice and picked the best)
 
+[old response](https://github.com/idekerlab/MUSIC2_systems/edit/main/May2023_final/Cluster2-1_chatgpt_response.md)
+
 ### Summary:
 
 The human protein system under analysis consists of a high-level system with child systems (Cluster3-0 and Cluster3-2) and residual proteins that belong only to the high-level system. The proteins in this system are involved in various cellular components, complexes, and biological processes. The goal of this analysis is to determine if this is a novel complex or if any proteins are novel members of a known complex. Based on the protein list and knowledge of how these proteins cluster, we propose the name "Human Protein Interaction and Regulation System" for this system, reflecting its function and location.
