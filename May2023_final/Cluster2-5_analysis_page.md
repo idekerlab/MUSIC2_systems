@@ -8,7 +8,7 @@ ABCF3, ABHD17A, ADCY7, ADGRE5, ALG10B, ALG5, ALG8, ANKH, AP1S1, AP5B1, AP5S1, AP
 
 (Note: Ran GPT4 query twice and picked the best) 
 
-[old response](https://github.com/idekerlab/MUSIC2_systems/edit/main/May2023_final/Cluster2-5_chatgpt_response.md)
+[old response](https://github.com/idekerlab/MUSIC2_systems/blob/main/May2023_final/Cluster2-5_chatgpt_response.md)
 
 ### Summary
 
