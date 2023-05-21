@@ -9,7 +9,7 @@ ABCA12, ABCB1, ABCB4, ABCC1, ABI1, ACIN1, ACKR3, ACOT9, ACTR10, ACTR1A, ACTR1B, 
 (Note: ran GPT4 query twice and picked the best)
 
 
-[old response](https://github.com/idekerlab/MUSIC2_systems/edit/main/May2023_final/Cluster2-3_chatgpt_response.md)
+[old response](https://github.com/idekerlab/MUSIC2_systems/blob/main/May2023_final/Cluster2-3_chatgpt_response.md)
 
 #### Summary
 
