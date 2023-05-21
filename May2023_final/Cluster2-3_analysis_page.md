@@ -8,6 +8,9 @@ ABCA12, ABCB1, ABCB4, ABCC1, ABI1, ACIN1, ACKR3, ACOT9, ACTR10, ACTR1A, ACTR1B, 
 
 (Note: ran GPT4 query twice and picked the best)
 
+
+[old response](https://github.com/idekerlab/MUSIC2_systems/edit/main/May2023_final/Cluster2-3_chatgpt_response.md)
+
 #### Summary
 
 The human protein system analyzed here appears to be involved in cellular signaling, structural integrity, and protein-protein interactions. The proteins in this system are involved in various cellular components and complexes, including membrane-bound receptors, cytoskeletal proteins, and signaling molecules. The biological processes performed by this system include cell adhesion, signal transduction, and protein transport.
