@@ -8,6 +8,8 @@ ABCF3, ABHD17A, ADCY7, ADGRE5, ALG10B, ALG5, ALG8, ANKH, AP1S1, AP5B1, AP5S1, AP
 
 (Note: Ran GPT4 query twice and picked the best) 
 
+[old response](https://github.com/idekerlab/MUSIC2_systems/edit/main/May2023_final/Cluster2-5_chatgpt_response.md)
+
 ### Summary
 
 The human protein system analyzed here consists of a high-level system with residual proteins and child systems (Cluster3-7). The proteins involved in this system are associated with various cellular components and complexes, including membrane transport, signal transduction, and protein-protein interactions. The biological processes performed by this system include cellular signaling, regulation of transport, and protein complex assembly. Based on the functions and location of the proteins, we propose the name "Cellular Signaling and Transport Regulation" for this system.
