@@ -18,6 +18,14 @@ The protein system under analysis is primarily involved in the extracellular mat
 4. Bonnans, C., Chou, J., & Werb, Z. (2014). Remodelling the extracellular matrix in development and disease. Nature Reviews Molecular Cell Biology, 15(12), 786-801. [DOI: 10.1038/nrm3904](https://doi.org/10.1038/nrm3904)
 5. Myllyharju, J., & Kivirikko, K. I. (2004). Collagens, modifying enzymes and their mutations in humans, flies and worms. Trends in Genetics, 20(1), 33-43. [DOI: 10.1016/j.tig.2003.11.004](https://doi.org/10.1016/j.tig.2003.11.004)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

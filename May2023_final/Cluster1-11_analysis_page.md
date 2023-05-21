@@ -30,6 +30,14 @@ Further analysis and experimental validation of this system would require the ex
 
 These references provide insights into the roles and functions of some of the proteins in the Extracellular-Membrane Protein Interaction System. Further research and analysis would be required to fully understand the system and its potential as a novel complex or the presence of novel members in known complexes.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

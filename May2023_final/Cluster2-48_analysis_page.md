@@ -26,6 +26,14 @@ The biological processes performed by this system are likely related to transcri
 
 Further investigation is needed to determine if this is a novel complex or if any proteins are novel members of a known complex.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

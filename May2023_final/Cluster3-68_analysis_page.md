@@ -26,6 +26,14 @@ The Membrane-Associated Nuclear Protein System is involved in various biological
 
 3. Belyaeva, O. V., Korkina, O. V., Stetsenko, A. V., Kim, T., Nelson, P. S., & Kedishvili, N. Y. (2008). Biochemical properties of purified human retinol dehydrogenase 12 (RDH12): catalytic efficiency toward retinoids and C9 aldehydes and effects of cellular retinol-binding protein type I (CRBPI) and cellular retinaldehyde-binding protein (CRALBP) on the oxidation and reduction of retinoids. Biochemistry, 47(20), 5664-5674.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

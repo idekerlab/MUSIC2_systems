@@ -20,6 +20,14 @@ References:
 
 4. Gillette, T. G., & Hill, J. A. (2015). Readers, writers, and erasers: chromatin as the whiteboard of heart disease. Circulation research, 116(7), 1245-1253. [DOI: 10.1161/CIRCRESAHA.116.305838](https://doi.org/10.1161/CIRCRESAHA.116.305838)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

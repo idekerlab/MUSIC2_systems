@@ -25,6 +25,14 @@ The Midbody-Centrosome Protein Interaction System is involved in various mechani
 7. Riento, K., & Ridley, A. J. (2003). Rocks: multifunctional kinases in cell behaviour. *Nature Reviews Molecular Cell Biology*, 4(6), 446-456.
 8. Ohta, Y., Hartwig, J. H., & Stossel, T. P. (2006). FilGAP, a Rho- and ROCK-regulated GAP for Rac binds filamin A to control actin remodelling. *Nature Cell Biology*, 8(8), 803-814.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

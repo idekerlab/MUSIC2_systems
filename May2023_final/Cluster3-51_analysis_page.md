@@ -2,7 +2,7 @@
 
 ## Proteins: 
 
-LPAR1, AK6, UBE4A, PARN, EXOSC7, DDX39A, HIKESHI
+AK6, DDX39A, EXOSC7, HIKESHI, LPAR1, PARN, UBE4A
 
 ### Nuclear RNA Processing and Regulation System
 
@@ -29,6 +29,16 @@ Given the functions of these proteins, it is likely that this system plays a cru
 6. Lin, C. L., Bristol, L. A., Jin, L., Dykes-Hoberg, M., Crawford, T., Clawson, L., & Rothstein, J. D. (1998). Aberrant RNA processing in a neurodegenerative disease: the cause for absent EAAT2, a glutamate transporter, in amyotrophic lateral sclerosis. Neuron, 20(3), 589-602.
 
 7. Kose, S., Furuta, M., & Imamoto, N. (2012). Hikeshi, a nuclear import carrier for Hsp70s, protects cells from heat shock-induced nuclear damage. Cell, 149(3), 578-589.
+
+### Validated References: 
+
+[1] Maluchenko, N V, Koshkina, D O, Feofanov, A V, Studitsky, V M, Kirpichnikov, M P. "Poly(ADP-Ribosyl) Code Functions." Acta naturae, 2021, pp. 58-69.
+
+[2] Pankratova, Elizaveta V, Stepchenko, Alexander G, Portseva, Tatiana, Mogila, Vladic A, Georgieva, Sofia G. "Different N-terminal isoforms of Oct-1 control expression of distinct sets of genes and their high levels in Namalwa Burkitt's lymphoma cells affect a wide range of cellular processes." Nucleic acids research, 2016, pp. 9218-9230.
+
+[3] Morimoto, Marie, Boerkoel, Cornelius F. "The role of nuclear bodies in gene expression and disease." Biology, 2013, pp. 976-1033.
+
+
 
 ## Gene Feature Summary: 
 

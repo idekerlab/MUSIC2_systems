@@ -33,6 +33,14 @@ Based on the cellular location and function of these proteins, we propose the na
 7. Lemmon, M. A. (2008). Membrane recognition by phospholipid-binding domains. *Nature Reviews Molecular Cell Biology*, 9(2), 99-111.
 8. Smith, S., & de Lange, T. (2000). Tankyrase promotes telomere elongation in human cells. *Current Biology*, 10(20), 1299-1302.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

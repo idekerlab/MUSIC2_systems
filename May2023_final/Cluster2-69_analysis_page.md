@@ -26,6 +26,14 @@ Based on the cellular location and function of these proteins, we propose the na
 
 4. Le Tallec, B., Barrault, M. B., Guérois, R., Carré, T., & Peyroche, A. (2009). Hsm3/S5b participates in the assembly pathway of the 19S regulatory particle of the proteasome. *Molecular Cell*, 33(3), 389-399.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

@@ -26,6 +26,14 @@ References:
 
 4. Wang, L., Charroux, B., Kerridge, S., & Tsai, C. C. (2008). Atrophin recruits HDAC1/2 and G9a to modify histone H3K9 and to determine cell fates. *EMBO Reports*, 9(6), 555-562. [DOI: 10.1038/embor.2008.69](https://doi.org/10.1038/embor.2008.69)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

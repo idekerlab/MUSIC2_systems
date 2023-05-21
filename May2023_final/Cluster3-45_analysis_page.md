@@ -26,6 +26,14 @@ The proteins DNM3, EPS15L1, and AP2A1 are involved in endocytosis, while FCHO1, 
 
 4. McMahon, H. T., & Boucrot, E. (2011). Molecular mechanism and physiological functions of clathrin-mediated endocytosis. Nature Reviews Molecular Cell Biology, 12(8), 517-533. [DOI: 10.1038/nrm3151](https://doi.org/10.1038/nrm3151)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

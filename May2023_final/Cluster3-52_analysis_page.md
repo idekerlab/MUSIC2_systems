@@ -2,7 +2,7 @@
 
 ## Proteins: 
 
-TADA2A, NEUROG3, TADA2B, ATXN7L3, USP22, TAF5L, TCF12
+ATXN7L3, NEUROG3, TADA2A, TADA2B, TAF5L, TCF12, USP22
 
 ### SAGA-Associated Transcriptional Regulation System
 
@@ -27,6 +27,14 @@ The SAGA-Associated Transcriptional Regulation System is involved in several bio
 3. Gradwohl, G., Dierich, A., LeMeur, M., & Guillemot, F. (2000). neurogenin3 is required for the development of the four endocrine cell lineages of the pancreas. Proceedings of the National Academy of Sciences, 97(4), 1607-1611. [DOI: 10.1073/pnas.97.4.1607](https://doi.org/10.1073/pnas.97.4.1607)
 
 4. Seo, S., et al. (2007). The atypical E2F family member E2F7 couples the p53 and RB pathways during cellular senescence. Genes & Development, 21(22), 1549-1553. [DOI: 10.1101/gad.1583407](https://doi.org/10.1101/gad.1583407)
+
+### Validated References: 
+
+None
+
+
+
+
 
 ## Gene Feature Summary: 
 

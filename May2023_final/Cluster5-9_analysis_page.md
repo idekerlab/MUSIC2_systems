@@ -22,6 +22,14 @@ References:
 
 3. Kester, H. A., Blanchetot, C., den Hertog, J., van der Saag, P. T., & van der Burg, B. (1999). Transforming growth factor-beta-stimulated clone-22 is a member of a family of leucine zipper proteins that can homo- and heterodimerize and has transcriptional repressor activity. Journal of Biological Chemistry, 274(39), 27439-27447.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

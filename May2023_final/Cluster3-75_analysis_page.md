@@ -25,6 +25,14 @@ The primary biological process performed by this system is intraciliary transpor
 3. Bodoy, S., Fotiadis, D., Stoeger, C., Kanai, Y., & Palacín, M. (2013). The small SLC43 family: facilitator system l amino acid transporters and the orphan EEG1. Molecular Aspects of Medicine, 34(2-3), 638–645. https://doi.org/10.1016/j.mam.2012.12.007
 4. Rosenbaum, J. L., & Witman, G. B. (2002). Intraflagellar transport. Nature Reviews Molecular Cell Biology, 3(11), 813–825. https://doi.org/10.1038/nrm952
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

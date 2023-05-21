@@ -24,6 +24,14 @@ The human protein system under investigation consists of six proteins: MAFF, NFE
 
 6. Sato, T., Irie, S., Kitada, S., & Reed, J. C. (1995). FAP-1: a protein tyrosine phosphatase that associates with Fas. *Science*, 268(5209), 411-415. [Link](https://doi.org/10.1126/science.7716547)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

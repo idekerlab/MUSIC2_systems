@@ -2,7 +2,7 @@
 
 ## Proteins: 
 
-CDK5RAP1, TCP11L2, CTC1, GTF2H4
+CDK5RAP1, CTC1, GTF2H4, TCP11L2
 
 ### Nucleoplasmic Protein Interaction System
 
@@ -20,6 +20,16 @@ Given the diverse functions of these proteins, it is possible that this system r
 2. Li, Y., Zhang, D. J., Qiu, Y., Kido, T., & Lau, Y. F. (2011). The Y-located proto-oncogene TSPY exacerbates and its X-homologue TSPX inhibits transactivation functions of androgen receptor and its constitutively active variants. *Human Molecular Genetics*, 20(3), 453-463. doi: 10.1093/hmg/ddq498
 3. Chen, L. Y., Redon, S., & Lingner, J. (2012). The human CST complex is a terminator of telomerase activity. *Nature*, 488(7412), 540-544. doi: 10.1038/nature11269
 4. Coin, F., Oksenych, V., & Egly, J. M. (2007). Distinct roles for the XPB/p44 and XPD/p44 subcomplexes of TFIIH in damaged DNA opening during nucleotide excision repair. *Molecular Cell*, 26(2), 245-256. doi: 10.1016/j.molcel.2007.03.009
+
+### Validated References: 
+
+[1] Qian, Xiaohang, Liu, Xiaoying, Zhu, Zeyu, Wang, Shige, Song, Xiaoxuan, Chen, Guang, Wu, Jingying, Cao, Yuwen, Luan, Xinghua, Tang, Huidong, Cao, Li. "Variants in <i>LAMC3</i> Causes Occipital Cortical Malformation." Frontiers in genetics, 2021, pp. 616761.
+
+[2] Richardson, Adam E, Zentz, Zachary A, Chambers, Antonio E, Sandwith, Siara N, Reisinger, Michael A, Saunders, Destinee W, Tompkins, Joshua D, Riggs, Arthur D, Routh, Eric D, Rubenstein, Eric M, Smaldino, Melissa A, Vaughn, James P, Haney, Robert A, Smaldino, Philip J. "G-Quadruplex Helicase DHX36/G4R1 Engages Nuclear Lamina Proteins in Quiescent Breast Cancer Cells." ACS omega, 2020, pp. 24916-24926.
+
+[3] Brune, Thomas, Kunze-Schumacher, Heike, Kölling, Ralf. "Interactions in the ESCRT-III network of the yeast Saccharomyces cerevisiae." Current genetics, 2019, pp. 607-619.
+
+
 
 ## Gene Feature Summary: 
 

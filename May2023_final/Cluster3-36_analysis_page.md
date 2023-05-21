@@ -22,6 +22,14 @@ The proposed name for this system is the "Calcium-Dependent Cell Adhesion and Sy
 
 4. Yang, F., Wang, P. J., & Han, J. J. (2014). Tudor domain-containing proteins of Drosophila melanogaster. Development, Growth & Differentiation, 56(1), 76-84. [DOI: 10.1111/dgd.12107](https://doi.org/10.1111/dgd.12107)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

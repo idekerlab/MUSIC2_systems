@@ -22,6 +22,14 @@ Based on the cellular location and function of these proteins, we propose the na
 2. Esakova, O., & Krasilnikov, A. S. (2010). Of proteins and RNA: the RNase P/MRP family. RNA, 16(9), 1725-1747. doi:10.1261/rna.2140110
 3. Lygerou, Z., & Allmang, C. (2001). The role of H/ACA and C/D small nucleolar RNAs in ribosome biogenesis. In Ribosomes (pp. 273-284). Springer, Vienna. doi:10.1007/978-3-7091-6195-2_16
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

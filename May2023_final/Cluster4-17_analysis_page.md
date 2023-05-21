@@ -22,6 +22,14 @@ The human protein system analyzed consists of 13 proteins (SMG5, PHKG2, BLOC1S5,
 
 5. Valencia-Sanchez, M. A., Liu, J., Hannon, G. J., & Parker, R. (2006). Control of translation and mRNA degradation by miRNAs and siRNAs. Genes & development, 20(5), 515-524. [DOI: 10.1101/gad.1399806](https://doi.org/10.1101/gad.1399806)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

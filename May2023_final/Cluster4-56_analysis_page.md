@@ -24,6 +24,14 @@ The proteins in this system are involved in various cellular processes, includin
 
 4. Schillace, R. V., & Scott, J. D. (1999). Association of the type 1 protein phosphatase PP1 with the A-kinase anchoring protein AKAP220. *Current Biology*, 9(6), 321-324.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

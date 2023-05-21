@@ -35,6 +35,14 @@ References:
 17. [TECPR1: A tectonin domain-containing protein involved in autophagy regulation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3245776/)
 18. [TRAK2: A
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

@@ -24,6 +24,12 @@ Based on the cellular location and function of the proteins, the proposed name f
 
 4. Pfeffer, S. R. (2017). Rab GTPases: master regulators that establish the secretory and endocytic pathways. *Molecular Biology of the Cell*, 28(6), 712-715. [DOI: 10.1091/mbc.E16-10-0737](https://doi.org/10.1091/mbc.E16-10-0737)
 
+### Validated References: 
+
+[1] Tang, B L, Kausalya, J, Low, D Y, Lock, M L, Hong, W. "A family of mammalian proteins homologous to yeast Sec24p." Biochemical and biophysical research communications, 1999, pp. 679-84.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

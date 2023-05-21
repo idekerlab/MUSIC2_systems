@@ -30,6 +30,14 @@ Kaya, Y., Ofengand, J., & Del Campo, M. (2016). Crystal structure of PusL, a pse
 
 Otero, G., Fellows, J., Li, Y., de Bizemont, T., Dirac, A. M., Gustafsson, C. M., Erdjument-Bromage, H., Tempst, P., & Svejstrup, J.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

@@ -24,6 +24,14 @@ The proposed name for this system is the Nucleoplasmic Transcription Regulation 
 8. [General transcription factor II-I (GTF2I) - UniProt](https://www.uniprot.org/uniprot/P78347)
 9. [Kelch-like protein 7 (KLHL7) - UniProt](https://www.uniprot.org/uniprot/Q8IXQ5)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

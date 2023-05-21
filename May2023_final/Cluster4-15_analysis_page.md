@@ -18,6 +18,12 @@ The human protein system under analysis is primarily involved in cell adhesion, 
 4. Pasquale, E. B. (2008). Eph-ephrin bidirectional signaling in physiology and disease. Cell, 133(1), 38-52. [DOI: 10.1016/j.cell.2008.03.011](https://doi.org/10.1016/j.cell.2008.03.011)
 5. Redies, C., Hertel, N., & Hübner, C. A. (2012). Cadherins and neuropsychiatric disorders. Brain Research, 1470, 130-144. [DOI: 10.1016/j.brainres.2012.06.036](https://doi.org/10.1016/j.brainres.2012.06.036)
 
+### Validated References: 
+
+[1] Bouché, Elisabeth, Romero-Ortega, Mario I, Henkemeyer, Mark, Catchpole, Timothy, Leemhuis, Jost, Frotscher, Michael, May, Petra, Herz, Joachim, Bock, Hans H. "Reelin induces EphB activation." Cell research, 2013, pp. 473-90.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

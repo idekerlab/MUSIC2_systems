@@ -24,6 +24,14 @@ The presence of UBASH3B and PRMT1 in identical protein binding suggests that the
 
 4. Chen, Y., Sprung, R., Tang, Y., Ball, H., Sangras, B., Kim, S. C., ... & Zhao, Y. (2007). Lysine propionylation and butyrylation are novel post-translational modifications in histones. *Molecular & Cellular Proteomics*, 6(5), 812-819. [DOI: 10.1074/mcp.M700021-MCP200](https://doi.org/10.1074/mcp.M700021-MCP200)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

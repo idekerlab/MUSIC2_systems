@@ -23,6 +23,14 @@ Based on the analysis, it is not clear whether this system represents a novel co
 5. Chang, B. H., Mukherji, S., & Soderling, T. R. (2001). Characterization of a calmodulin kinase II inhibitor protein in brain. Proceedings of the National Academy of Sciences, 98(17), 9960-9965.
 6. Bender, A. T., & Beavo, J. A. (2006). Cyclic nucleotide phosphodiesterases: molecular regulation to clinical use. Pharmacological Reviews, 58(3), 488-520.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

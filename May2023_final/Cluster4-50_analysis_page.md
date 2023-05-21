@@ -24,6 +24,12 @@ Given the shared functions and cellular components of these proteins, it is like
 
 4. Grigoriev, I., Splinter, D., Keijzer, N., Wulf, P. S., Demmers, J., Ohtsuka, T., ... & Akhmanova, A. (2007). Rab6 regulates transport and targeting of exocytotic carriers. Developmental cell, 13(2), 305-314.
 
+### Validated References: 
+
+[1] Dumanchin, C, Czech, C, Campion, D, Cuif, M H, Poyot, T, Martin, C, Charbonnier, F, Goud, B, Pradier, L, Frebourg, T. "Presenilins interact with Rab11, a small GTPase involved in the regulation of vesicular transport." Human molecular genetics, 1999, pp. 1263-9.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

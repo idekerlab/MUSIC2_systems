@@ -19,6 +19,14 @@ Given the functional overlap and physical proximity of these proteins, it is pos
 1. Ibba, M., & Söll, D. (2000). Aminoacyl-tRNA synthesis. *Annual Review of Biochemistry*, 69(1), 617-650. doi:10.1146/annurev.biochem.69.1.617
 2. Stefansson, B., & Brautigan, D. L. (2006). Protein phosphatase 6 subunit with conserved Sit4-associated protein domain targets IkappaBepsilon. *Journal of Biological Chemistry*, 281(32), 22624-22634. doi:10.1074/jbc.M513665200
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

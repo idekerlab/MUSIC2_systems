@@ -20,6 +20,16 @@ References:
 
 4. Krogan, N. J., Keogh, M. C., Datta, N., Sawa, C., Ryan, O. W., Ding, H., ... & Greenblatt, J. F. (2003). A Snf2 family ATPase complex required for recruitment of the histone H2A variant Htz1. Molecular Cell, 12(6), 1565-1576. [DOI: 10.1016/S1097-2765(03)00497-0](https://doi.org/10.1016/S1097-2765(03)00497-0)
 
+### Validated References: 
+
+[1] Peng, Qiyao, Wan, Dan, Zhou, Rongrong, Luo, Hongyu, Wang, Junyi, Ren, Lingyan, Zeng, Yajun, Yu, Chao, Zhang, Shuihan, Huang, Xuekuan, Peng, Yongbo. "The biological function of metazoan-specific subunit nuclear factor related to kappaB binding protein of INO80 complex." International journal of biological macromolecules, 2022, pp. 176-183.
+
+[2] Kumar, Abhinav, Möcklinghoff, Sabine, Yumoto, Fumiaki, Jaroszewski, Lukasz, Farr, Carol L, Grzechnik, Anna, Nguyen, Phuong, Weichenberger, Christian X, Chiu, Hsiu-Ju, Klock, Heath E, Elsliger, Marc-André, Deacon, Ashley M, Godzik, Adam, Lesley, Scott A, Conklin, Bruce R, Fletterick, Robert J, Wilson, Ian A. "Structure of a novel winged-helix like domain from human NFRKB protein." PloS one, 2012, pp. e43761.
+
+[3] Aramayo, Ricardo J, Willhoft, Oliver, Ayala, Rafael, Bythell-Douglas, Rohan, Wigley, Dale B, Zhang, Xiaodong. "Cryo-EM structures of the human INO80 chromatin-remodeling complex." Nature structural & molecular biology, 2018, pp. 37-44.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

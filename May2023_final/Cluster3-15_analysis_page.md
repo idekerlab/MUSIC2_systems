@@ -2,7 +2,7 @@
 
 ## Proteins: 
 
-SNW1, PPIG, CHTOP, SF3B2, PNN, UNK, SETD2, BCLAF1, RSRC2, ZC3H18, SART1, SF3B4, ZC3H14, BMP2K, SRSF11, SRRM2, LUC7L3, GPATCH8, SRSF4, PRPF40A, SRSF6, WTAP, CDK11A, SFSWAP, SNRPA, CDK11B, BRD2, IK, RBM25, THRAP3, FNBP4, SF3B1, RBM17, PRPF4B, SON, BCAS2, CCDC12, CWC25, CWF19L2, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+BCAS2, BCLAF1, BMP2K, BRD2, CCDC12, CDK11A, CDK11B, CHTOP, CWC25, CWF19L2, FNBP4, GPATCH8, IK, LUC7L3, PLRG1, PNN, PPIE, PPIG, PRPF19, PRPF40A, PRPF4B, RBM17, RBM25, RSRC2, SART1, SETD2, SF3B1, SF3B2, SF3B4, SFSWAP, SNRPA, SNRPA1, SNRPB2, SNW1, SON, SRRM2, SRSF11, SRSF4, SRSF6, SYF2, THRAP3, UNK, WTAP, ZC3H14, ZC3H18
 
 ### Nuclear Spliceosome-Associated Protein System
 
@@ -21,6 +21,14 @@ The Nuclear Spliceosome-Associated Protein System is a complex of proteins invol
 4. Shi, Y. (2017). Mechanistic insights into precursor messenger RNA splicing by the spliceosome. Nature Reviews Molecular Cell Biology, 18(11), 655-670. [DOI: 10.1038/nrm.2017.86](https://doi.org/10.1038/nrm.2017.86)
 
 5. Bertram, K., Agafonov, D. E., Dybkov, O., Haselbach, D., Leelaram, M. N., Will, C. L., ... & Stark, H. (2017). Cryo-EM structure of a pre-catalytic human spliceosome primed for activation. Cell, 170(4), 701-713. [DOI: 10.1016/j.cell.2017.07.011](https://doi.org/10.1016/j.cell.2017.07.011)
+
+### Validated References: 
+
+None
+
+
+
+
 
 ## Gene Feature Summary: 
 

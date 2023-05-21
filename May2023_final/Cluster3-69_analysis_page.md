@@ -26,6 +26,14 @@ The shared functions of ID1, NEUROG3, and TCF3 suggest that these proteins may f
 
 4. Roose, J., Molenaar, M., Peterson, J., Hurenkamp, J., Brantjes, H., Moerer, P., ... & Clevers, H. (1998). The Xenopus Wnt effector XTcf-3 interacts with Groucho-related transcriptional repressors. Nature, 395(6702), 608-612.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

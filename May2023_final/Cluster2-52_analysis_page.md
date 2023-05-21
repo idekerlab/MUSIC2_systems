@@ -28,6 +28,14 @@ To determine if this is a novel complex or if any proteins are novel members of 
 
 6. Cheeseman, I. M., & Desai, A. (2008). Molecular architecture of the kinetochore-microtubule interface. Nature Reviews Molecular Cell Biology, 9(1), 33-46.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

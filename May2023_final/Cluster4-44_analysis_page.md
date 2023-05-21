@@ -29,6 +29,14 @@ Based on the shared cellular localization and functions, we propose the name "Nu
 11. Okamura, H., et al. (2015). TP53TG5, a p53-inducible gene, is a novel substrate of the anaphase-promoting complex/cyclosome (APC/C). *Oncogene*, 34(21), 2737-2745.
 12. D'Arcy, P., et al. (2015). UCHL5/UCH
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

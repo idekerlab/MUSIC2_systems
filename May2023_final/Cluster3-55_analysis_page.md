@@ -22,6 +22,14 @@ References:
 
 4. Wang, P. Y., Weng, J., & Anderson, R. G. (2005). OSBP is a cholesterol-regulated scaffolding protein in control of ERK 1/2 activation. Science, 307(5714), 1472-1476. doi: 10.1126/science.1107714
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

@@ -30,6 +30,14 @@ The proteins in this system are involved in several biological processes, includ
 6. Zhang, Y., et al. (2013). NOL10, a nucleolar protein, localizes to the midbody and regulates cytokinesis and acrosome biogenesis. Molecular Biology of the Cell, 24(22), 3630-3644.
 7. Komander, D., & Rape, M. (2012). The ubiquitin code. Annual Review of Biochemistry, 81, 203-229.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

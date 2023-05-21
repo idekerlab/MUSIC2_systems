@@ -22,6 +22,12 @@ Given the diverse range of cellular processes and components involved, it is dif
 
 3. Szklarczyk, D., Gable, A. L., Lyon, D., Junge, A., Wyder, S., Huerta-Cepas, J., ... & Mering, C. V. (2019). STRING v11: protein-protein association networks with increased coverage, supporting functional discovery in genome-wide experimental datasets. Nucleic acids research, 47(D1), D607-D613.
 
+### Validated References: 
+
+[1] Pache, Roland A, Aloy, Patrick. "Increasing the precision of orthology-based complex prediction through network alignment." PeerJ, 2014, pp. e413.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

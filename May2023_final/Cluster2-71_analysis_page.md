@@ -24,6 +24,14 @@ Given the shared functions and cellular locations of these proteins, it is possi
 
 4. Valdés-Sánchez, L., De la Cerda, B., Diaz-Corrales, F. J., Massalini, S., Chakarova, C. F., & Bhattacharya, S. S. (2013). ATR localizes to the photoreceptor connecting cilium and deficiency leads to severe photoreceptor degeneration in mice. *Human Molecular Genetics*, 22(8), 1507-1515. doi:10.1093/hmg/ddt002
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

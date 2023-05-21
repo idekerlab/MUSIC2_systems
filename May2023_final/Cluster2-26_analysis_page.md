@@ -20,6 +20,14 @@ References:
 
 5. Sorkin, A., & von Zastrow, M. (2009). Endocytosis and signalling: intertwining molecular networks. Nature reviews Molecular cell biology, 10(9), 609-622. [DOI: 10.1038/nrm2748](https://doi.org/10.1038/nrm2748)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

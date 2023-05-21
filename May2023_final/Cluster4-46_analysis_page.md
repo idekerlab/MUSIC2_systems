@@ -24,6 +24,18 @@ Given the known functions and interactions of these proteins, it is likely that 
 4. Rankin, S., Ayad, N. G., & Kirschner, M. W. (2005). Sororin, a substrate of the anaphase-promoting complex, is required for sister chromatid cohesion in vertebrates. Molecular cell, 18(2), 185-200.
 5. Nishiyama, T., Ladurner, R., Schmitz, J., Kreidl, E., Schleiffer, A., Bhaskara, V., ... & Peters, J. M. (2010). Sororin mediates sister chromatid cohesion by antagonizing Wapl. Cell, 143(5), 737-749.
 
+### Validated References: 
+
+[1] Hill, Victoria K, Kim, Jung-Sik, Waldman, Todd. "Cohesin mutations in human cancer." Biochimica et biophysica acta, 2016, pp. 1-11.
+
+[2] Cheng, Haizi, Zhang, Nenggang, Pati, Debananda. "Cohesin subunit RAD21: From biology to disease." Gene, 2020, pp. 144966.
+
+[3] Mannini, Linda, Cucco, Francesco, Quarantotti, Valentina, Amato, Clelia, Tinti, Mara, Tana, Luigi, Frattini, Annalisa, Delia, Domenico, Krantz, Ian D, Jessberger, Rolf, Musio, Antonio. "SMC1B is present in mammalian somatic cells and interacts with mitotic cohesin proteins." Scientific reports, 2015, pp. 18472.
+
+[4] Cuadrado, Ana, Giménez-Llorente, Daniel, De Koninck, Magali, Ruiz-Torres, Miguel, Kojic, Aleksandar, Rodríguez-Corsino, Miriam, Losada, Ana. "Contribution of variant subunits and associated factors to genome-wide distribution and dynamics of cohesin." Epigenetics & chromatin, 2022, pp. 37.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

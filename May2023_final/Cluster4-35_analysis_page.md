@@ -24,6 +24,14 @@ Based on the analysis, this protein system appears to be a novel complex, as it 
 4. Guilluy, C., Garcia-Mata, R., & Burridge, K. (2011). Rho protein crosstalk: another social network? *Trends in Cell Biology*, 21(12), 718-726.
 5. López-Casillas, F., Wrana, J. L., & Massagué, J. (1993). Betaglycan presents ligand to the TGF beta signaling receptor. *Cell*, 73(7), 1435-1444.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

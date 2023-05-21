@@ -23,6 +23,22 @@ In conclusion, the nucleus-localized STAT-IRF-DPP9 system appears to be a novel 
 3. Schindler, C., & Darnell Jr, J. E. (1995). Transcriptional responses to polypeptide ligands: the JAK-STAT pathway. Annual review of biochemistry, 64(1), 621-651. [DOI: 10.1146/annurev.bi.64.070195.003201](https://doi.org/10.1146/annurev.bi.64.070195.003201)
 4. Zhang, X., & Darnell, J. E. (2001). Functional importance of Stat3 tetramerization in activation of the alpha 2-macroglobulin gene. The Journal of biological chemistry, 276(36), 33576-33581. [DOI: 10.1074/jbc.M104945200](https://doi.org/10.1074/jbc.M104945200)
 
+### Validated References: 
+
+[1] Parrini, Matthias, Meissl, Katrin, Ola, Mojoyinola Joanna, Lederer, Therese, Puga, Ana, Wienerroither, Sebastian, Kovarik, Pavel, Decker, Thomas, Müller, Mathias, Strobl, Birgit. "The C-Terminal Transactivation Domain of STAT1 Has a Gene-Specific Role in Transactivation and Cofactor Recruitment." Frontiers in immunology, 2018, pp. 2879.
+
+[2] Au-Yeung, Nancy, Horvath, Curt M. "Transcriptional and chromatin regulation in interferon and innate antiviral gene expression." Cytokine & growth factor reviews, 2018, pp. 11-17.
+
+[3] Gnatovskiy, Leonid, Mita, Paolo, Levy, David E. "The human RVB complex is required for efficient transcription of type I interferon-stimulated genes." Molecular and cellular biology, 2013, pp. 3817-25.
+
+[4] Huang, Zhao, Cao, Haoxuan, Zeng, Fanliang, Lin, Sizhan, Chen, Jianglin, Luo, Yi, You, Jianyi, Kong, Cuiying, Mai, Zhanzhuo, Deng, Jie, Guo, Weiting, Chen, Xiongnan, Wang, Heng, Zhou, Pei, Zhang, Guihong, Gong, Lang. "African Swine Fever Virus MGF505-7R Interacts with Interferon Regulatory Factor 9 to Evade the Type I Interferon Signaling Pathway and Promote Viral Replication." Journal of virology, 2023, pp. e0197722.
+
+[5] Wang, Yishen, Hong, Yiwen, Mao, Shudi, Jiang, Yukang, Cui, Yamei, Pan, Jianying, Luo, Yan. "An Interaction-Based Method for Refining Results From Gene Set Enrichment Analysis." Frontiers in genetics, 2022, pp. 890672.
+
+[6] Chen, Qichao, Li, Liang, Guo, Shibang, Liu, Zhankui, Liu, Lixinjie, Tan, Chen, Chen, Huanchun, Wang, Xiangru. "African swine fever virus pA104R protein acts as a suppressor of type I interferon signaling." Frontiers in microbiology, 2023, pp. 1169699.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

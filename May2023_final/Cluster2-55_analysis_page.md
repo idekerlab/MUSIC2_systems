@@ -30,6 +30,14 @@ MTMR7 and MDP1 exhibit protein tyrosine phosphatase activity, which may contribu
 6. Nombela, C., & Aguilera, A. (2005). The THO complex: new perspectives on a conserved co-transcriptional factor. Biochimica et Biophysica Acta (BBA)-Gene Structure and Expression, 1725(2), 153-159.
 7. Begley, M. J., Taylor, G. S., Kim, S. A., Veine, D. M., Dixon, J. E., & Stuckey, J. A. (2003). Crystal structure of a phosphoinositide phosphatase, MTMR2: insights into myotubular myopathy and Charcot-Marie-Tooth syndrome. Molecular Cell, 12(6), 1391-1402.
 
+### Validated References: 
+
+[1] Kumar, Raman, Palmer, Elizabeth, Gardner, Alison E, Carroll, Renee, Banka, Siddharth, Abdelhadi, Ola, Donnai, Dian, Elgersma, Ype, Curry, Cynthia J, Gardham, Alice, Suri, Mohnish, Malla, Rishikesh, Brady, Lauren Ilana, Tarnopolsky, Mark, Azmanov, Dimitar N, Atkinson, Vanessa, Black, Michael, Baynam, Gareth, Dreyer, Lauren, Hayeems, Robin Z, Marshall, Christian R, Costain, Gregory, Wessels, Marja W, Baptista, Julia, Drummond, James, Leffler, Melanie, Field, Michael, Gecz, Jozef. "Expanding Clinical Presentations Due to Variations in THOC2 mRNA Nuclear Export Factor." Frontiers in molecular neuroscience, 2020, pp. 12.
+
+[2] Guria, Anuja, Tran, Doan Duy Hai, Ramachandran, Sheetal, Koch, Alexandra, El Bounkari, Omar, Dutta, Priyanka, Hauser, Hansjörg, Tamura, Teruko. "Identification of mRNAs that are spliced but not exported to the cytoplasm in the absence of THOC5 in mouse embryo fibroblasts." RNA (New York, N.Y.), 2011, pp. 1048-56.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

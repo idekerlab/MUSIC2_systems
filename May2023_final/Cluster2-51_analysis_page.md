@@ -22,6 +22,12 @@ References:
 
 4. Sung, C. H., & Leroux, M. R. (2013). The roles of evolutionarily conserved functional modules in cilia-related trafficking. Nature Cell Biology, 15(12), 1387-1397. [DOI: 10.1038/ncb2888](https://www.nature.com/articles/ncb2888)
 
+### Validated References: 
+
+[1] Collin, Gayle B, Won, Jungyeon, Hicks, Wanda L, Cook, Susan A, Nishina, Patsy M, Naggert, Jürgen K. "Meckelin is necessary for photoreceptor intraciliary transport and outer segment morphogenesis." Investigative ophthalmology & visual science, 2012, pp. 967-74.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

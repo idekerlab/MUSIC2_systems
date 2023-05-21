@@ -20,6 +20,14 @@ The human protein system analyzed in this study comprises 44 proteins, which are
 
 4. The UniProt Consortium. (2021). UniProt: the universal protein knowledgebase in 2021. *Nucleic Acids Research*, 49(D1), D480-D489. [DOI: 10.1093/nar/gkaa1100](https://doi.org/10.1093/nar/gkaa1100)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

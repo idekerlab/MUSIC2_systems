@@ -26,6 +26,14 @@ References:
 
 4. Polson, H. E., de Lartigue, J., Rigden, D. J., Reedijk, M., Urbé, S., Clague, M. J., & Tooze, S. A. (2010). Mammalian Atg18 (WIPI2) localizes to omegasome-anchored phagophores and positively regulates LC3 lipidation. *Autophagy*, 6(4), 506-522.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

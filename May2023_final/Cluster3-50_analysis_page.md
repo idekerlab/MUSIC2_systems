@@ -32,6 +32,14 @@ Based on the cellular location and function of these proteins, we propose the na
 
 8. Trumpower, B. L. (1990). The protonmotive Q cycle. Energy transduction by coupling of proton translocation to electron transfer by the cytochrome bc1 complex. Journal of Biological Chemistry, 265(20), 11409-11412. [UQCRC1]
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

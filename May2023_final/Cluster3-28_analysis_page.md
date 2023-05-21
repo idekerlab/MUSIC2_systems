@@ -22,6 +22,14 @@ The human protein system analyzed here consists of 19 proteins, which are primar
 
 5. Hilton, D. J., Richardson, R. T., Alexander, W. S., Viney, E. M., Willson, T. A., Sprigg, N. S., Starr, R., Nicholson, S. E., Metcalf, D., & Nicola, N. A. (1998). Twenty proteins containing a C-terminal SOCS box form five structural classes. *Proceedings of the National Academy of Sciences, 95*(1), 114-119. [DOI: 10.1073/pnas.95.1.114](https://doi.org/10.1073/pnas.95.1.114)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

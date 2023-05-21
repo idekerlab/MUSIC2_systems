@@ -26,6 +26,14 @@ Given the cellular location and function of the proteins in this system, it is p
 
 4. Joberty, G., Perlungher, R. R., & Macara, I. G. (1999). The Borgs, a new family of Cdc42 and TC10 GTPase-interacting proteins. Molecular and Cellular Biology, 19(10), 6585-6597. [DOI: 10.1128/MCB.19.10.6585](https://doi.org/10.1128/MCB.19.10.6585)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

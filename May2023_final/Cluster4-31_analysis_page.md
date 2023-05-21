@@ -26,6 +26,14 @@ References:
 
 6. Yan C, Zhao AZ, Bentley JK, Beavo JA. The calmodulin-dependent phosphodiesterase gene PDE1C encodes several functionally different splice variants in a tissue-specific manner. J Biol Chem. 1996;271(41):25699-25706.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

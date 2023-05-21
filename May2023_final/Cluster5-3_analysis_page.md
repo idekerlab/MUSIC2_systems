@@ -21,6 +21,14 @@ References:
 3. Simsek, D., & Barna, M. (2017). An emerging role for the ribosome as a nexus for post-translational modifications. Current Opinion in Cell Biology, 45, 92-101. doi:10.1016/j.ceb.2017.05.009
 4. Warner, J. R., & McIntosh, K. B. (2009). How common are extraribosomal functions of ribosomal proteins? Molecular Cell, 34(1), 3-11. doi:10.1016/j.molcel.2009.03.006
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

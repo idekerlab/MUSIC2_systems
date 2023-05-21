@@ -26,6 +26,14 @@ Based on the cellular location and function of the proteins, the proposed name f
 
 4. Ritter, B., et al. (2013). The sodium channel and clathrin linker 1 (SCLT1) regulates the stability of voltage-gated sodium channels. *Journal of Biological Chemistry*, 288(4), 2437-2450.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

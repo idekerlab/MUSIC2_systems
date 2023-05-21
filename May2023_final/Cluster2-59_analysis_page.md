@@ -28,6 +28,14 @@ References:
 
 5. Smith, T. F., Gaitatzes, C., Saxena, K., & Neer, E. J. (1999). The WD repeat: a common architecture for diverse functions. Trends in biochemical sciences, 24(5), 181-185.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

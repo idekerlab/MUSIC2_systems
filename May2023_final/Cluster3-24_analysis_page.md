@@ -24,6 +24,12 @@ Furthermore, several proteins in this system are involved in cellular signaling 
 
 4. Foskett, J. K., White, C., Cheung, K. H., & Mak, D. O. (2007). Inositol trisphosphate receptor Ca2+ release channels. Physiological Reviews, 87(2), 593-658. [DOI: 10.1152/physrev.00035.2006](https://doi.org/10.1152/physrev.00035.2006)
 
+### Validated References: 
+
+[1] Ruscica, Vincenzo, Bawankar, Praveen, Peter, Daniel, Helms, Sigrun, Igreja, Cátia, Izaurralde, Elisa. "Direct role for the Drosophila GIGYF protein in 4EHP-mediated mRNA repression." Nucleic acids research, 2019, pp. 7035-7048.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

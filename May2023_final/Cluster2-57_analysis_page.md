@@ -22,6 +22,14 @@ Glading, A., Han, J., Stockton, R. A., & Ginsberg, M. H. (2007). KRIT-1/CCM1 is 
 
 Lee, C. G., Da Silva, C. A., Dela Cruz, C. S., Ahangari, F., Ma, B., Kang, M. J., ... & Elias, J. A. (2011). Role of chitin and chitinase/chitinase-like proteins in inflammation, tissue remodeling, and injury. Annual Review of Physiology, 73, 479-501.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

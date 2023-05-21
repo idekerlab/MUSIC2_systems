@@ -24,6 +24,12 @@ Based on the cellular location and function, we propose the name "Membrane-Assoc
 
 4. Vito, P., Pellegrini, L., Guiet, C., & D'Adamio, L. (1996). Cloning of AIP1, a novel protein that associates with the apoptosis-linked gene ALG-2 in a Ca2+-dependent reaction. Journal of Biological Chemistry, 271(9), 521-524. [DOI: 10.1074/jbc.271.9.521](https://doi.org/10.1074/jbc.271.9.521)
 
+### Validated References: 
+
+[1] Davis, Paul J, Goglia, Fernando, Leonard, Jack L. "Nongenomic actions of thyroid hormone." Nature reviews. Endocrinology, 2016, pp. 111-21.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

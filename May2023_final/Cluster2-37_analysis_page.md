@@ -24,6 +24,14 @@ Given the involvement of PKA signaling and lipid metabolism processes, we propos
 
 3. Lev, S. (2010). Non-vesicular lipid transport by lipid-transfer proteins and beyond. Nature Reviews Molecular Cell Biology, 11(10), 739-750. [DOI: 10.1038/nrm2971](https://doi.org/10.1038/nrm2971)
 
+### Validated References: 
+
+[1] Zhu, Huiping, Lu, Wei, Laurent, Cecile, Shaw, Gary M, Lammer, Edward J, Finnell, Richard H. "Genes encoding catalytic subunits of protein kinase A and risk of spina bifida." Birth defects research. Part A, Clinical and molecular teratology, 2005, pp. 591-6.
+
+[2] Kamilaris, Crystal D C, Stratakis, Constantine A, Hannah-Shmouni, Fady. "Molecular Genetic and Genomic Alterations in Cushing's Syndrome and Primary Aldosteronism." Frontiers in endocrinology, 2021, pp. 632543.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

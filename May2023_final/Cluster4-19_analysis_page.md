@@ -31,6 +31,26 @@ The system is involved in various mechanisms and biological processes, including
 3. Myllyharju, J., & Kivirikko, K. I. (2004). Collagens, modifying enzymes and their mutations in humans, flies and worms. Trends in Genetics, 20(1), 33-43. [DOI: 10.1016/j.tig.2003.11.004](https://doi.org/10.1016/j.tig.2003.11.004)
 4. Bonnans, C., Chou, J., & Werb, Z. (2014). Remodelling the extracellular matrix in development and disease. Nature Reviews Molecular Cell Biology, 15(12), 786-801. [DOI: 10.1038/nrm3904](https://doi.org/10.1038/nrm3904)
 
+### Validated References: 
+
+[1] Ghasemi, Ali, Qaffaripour, Zohreh, Tourani, Mehdi, Saleki, Kiarash, Rahmani-Kukia, Nasim, Khatami, Seyyed Hossein, Taheri-Anganeh, Mortaza. "The relationship between long non-coding RNAs and Wnt/β-catenin signaling pathway in the pathogenesis of Alzheimer's disease." Experimental neurology, 2023, pp. 114434.
+
+[2] Satyanarayana, Ganesh, Turaga, Ravi Chakra, Sharma, Malvika, Wang, Siming, Mishra, Falguni, Peng, Guangda, Deng, Xiaonan, Yang, Jenny, Liu, Zhi-Ren. "Pyruvate kinase M2 regulates fibrosis development and progression by controlling glycine auxotrophy in myofibroblasts." Theranostics, 2021, pp. 9331-9341.
+
+[3] Bella, Jordi, Hulmes, David J S. "Fibrillar Collagens." Sub-cellular biochemistry, 2017, pp. 457-490.
+
+[4] Syx, Delfien, Guillemyn, Brecht, Symoens, Sofie, Sousa, Ana Berta, Medeira, Ana, Whiteford, Margo, Hermanns-Lê, Trinh, Coucke, Paul J, De Paepe, Anne, Malfait, Fransiska. "Defective Proteolytic Processing of Fibrillar Procollagens and Prodecorin Due to Biallelic BMP1 Mutations Results in a Severe, Progressive Form of Osteogenesis Imperfecta." Journal of bone and mineral research : the official journal of the American Society for Bone and Mineral Research, 2015, pp. 1445-56.
+
+[5] Buga, Ana Maria, Margaritescu, Claudiu, Scholz, Claus Juergen, Radu, Eugen, Zelenak, Christine, Popa-Wagner, Aurel. "Transcriptomics of post-stroke angiogenesis in the aged brain." Frontiers in aging neuroscience, 2014, pp. 44.
+
+[6] Park, Jiwon, Jia, Siyang, Salter, Donald, Bagnaninchi, Pierre, Hansen, Carsten G. "The Hippo pathway drives the cellular response to hydrostatic pressure." The EMBO journal, 2022, pp. e108719.
+
+[7] James, Bryan D, Montoya, Nicolas, Allen, Josephine. "MechanoBioTester: A Decoupled Multistimulus Cell Culture Device for Studying Complex Microenvironments In Vitro." ACS biomaterials science & engineering, 2020, pp. 3673-3689.
+
+[8] Ferrari, Dario, Sengupta, Arunima, Heo, Lyong, Pethö, Laszlo, Michler, Johann, Geiser, Thomas, de Jesus Perez, Vinicio A, Kuebler, Wolfgang M, Zeinali, Soheila, Guenat, Olivier T. "Effects of biomechanical and biochemical stimuli on angio- and vasculogenesis in a complex microvasculature-on-chip." iScience, 2023, pp. 106198.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

@@ -24,6 +24,14 @@ Based on the cellular location and function of the proteins in this system, we p
 4. Rayment, I., Holden, H. M., Whittaker, M., Yohn, C. B., Lorenz, M., Holmes, K. C., & Milligan, R. A. (1993). Structure of the actin-myosin complex and its implications for muscle contraction. *Science*, 261(5117), 58-65. [DOI: 10.1126/science.8316858](https://doi.org/10.1126/science.8316858)
 5. Schiaffino, S., & Reggiani, C. (2011). Fiber types in mammalian skeletal muscles. *Physiological Reviews*, 91(4), 1447-1531. [DOI: 10.1152/physrev.00031.2010](https://doi.org/10.1152/physrev.00031.2010)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

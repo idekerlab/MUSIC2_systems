@@ -24,6 +24,14 @@ The primary biological processes performed by this system are related to protein
 2. Ye, Y., & Rape, M. (2009). Building ubiquitin chains: E2 enzymes at work. *Nature Reviews Molecular Cell Biology*, 10(11), 755-764. [DOI: 10.1038/nrm2780](https://doi.org/10.1038/nrm2780)
 3. Pickart, C. M., & Eddins, M. J. (2004). Ubiquitin: structures, functions, mechanisms. *Biochimica et Biophysica Acta (BBA) - Molecular Cell Research*, 1695(1-3), 55-72. [DOI: 10.1016/j.bbamcr.2004.09.019](https://doi.org/10.1016/j.bbamcr.2004.09.019)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

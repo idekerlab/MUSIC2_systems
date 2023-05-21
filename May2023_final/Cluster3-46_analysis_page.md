@@ -22,6 +22,14 @@ Based on the cellular location and function of these proteins, we propose the na
 4. Luo, K. (2017). Signaling Cross Talk between TGF-β/Smad and Other Signaling Pathways. *Cold Spring Harbor Perspectives in Biology*, 9(1), a022137. [DOI: 10.1101/cshperspect.a022137](https://doi.org/10.1101/cshperspect.a022137)
 5. Massagué, J. (2012). TGFβ signalling in context. *Nature Reviews Molecular Cell Biology*, 13(10), 616-630. [DOI: 10.1038/nrm3434](https://doi.org/10.1038/nrm3434)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

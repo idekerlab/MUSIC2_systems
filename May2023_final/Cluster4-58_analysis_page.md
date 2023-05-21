@@ -28,6 +28,14 @@ Given the cellular location and function of these proteins, we propose the name 
 
 5. Ceulemans, H., Bollen, M. (2004). Functional diversity of protein phosphatase-1, a cellular economizer and reset button. Physiological Reviews, 84(1), 1-39.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

@@ -26,6 +26,14 @@ References:
 
 4. Zhang, Y., Liu, H., Li, W., Zhang, Z., Zhang, G., & Zhu, J. (2017). Overexpression of ZNF330 contributes to the growth and metastasis of human hepatocellular carcinoma. Oncotarget, 8(46), 81035-81047.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

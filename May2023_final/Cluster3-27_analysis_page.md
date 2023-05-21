@@ -22,6 +22,14 @@ The human protein system analyzed in this report consists of 20 proteins, with t
 
 5. Gstaiger, M., & Aebersold, R. (2009). Applying mass spectrometry-based proteomics to genetics, genomics and network biology. *Nature Reviews Genetics*, 10(9), 617-627. [DOI: 10.1038/nrg2633](https://doi.org/10.1038/nrg2633)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

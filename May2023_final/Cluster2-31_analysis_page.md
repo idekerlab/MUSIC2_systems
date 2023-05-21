@@ -22,6 +22,14 @@ This system appears to be a novel complex, as the proteins involved have not bee
 
 4. Schroer, T. A. (2004). Dynactin. *Annual Review of Cell and Developmental Biology*, 20, 759-779. [DOI: 10.1146/annurev.cellbio.20.012103.094623](https://doi.org/10.1146/annurev.cellbio.20.012103.094623)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

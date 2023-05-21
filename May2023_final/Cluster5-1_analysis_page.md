@@ -16,6 +16,14 @@ References:
 4. [Protein folding in the endoplasmic reticulum](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2683408/)
 5. [Endoplasmic Reticulum-Plasma Membrane Contact Sites](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4865085/)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

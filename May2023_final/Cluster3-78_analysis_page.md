@@ -30,6 +30,14 @@ The actin regulation function of this complex is critical for maintaining proper
 
 3. Pollard, T. D., & Borisy, G. G. (2003). Cellular motility driven by assembly and disassembly of actin filaments. Cell, 112(4), 453-465.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

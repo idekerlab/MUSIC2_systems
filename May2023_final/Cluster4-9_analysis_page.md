@@ -21,6 +21,14 @@ References:
 3. Tomko, R. J., & Hochstrasser, M. (2013). Molecular architecture and assembly of the eukaryotic proteasome. Annual Review of Biochemistry, 82, 415-445. doi:10.1146/annurev-biochem-060410-150257
 4. Bard, J. A. M., Goodall, E. A., Greene, E. R., Jonsson, E., Dong, K. C., & Martin, A. (2018). Structure and Function of the 26S Proteasome. Annual Review of Biochemistry, 87, 697-724. doi:10.1146/annurev-biochem-062917-012724
 
+### Validated References: 
+
+[1] Pradhan, Ashis Kumar, Kandasamy, Ganapathi, Chatterjee, Upasana, Bharadwaj, Anushree, Mathew, Sam J, Dohmen, R Jürgen, Palanimurugan, R. "Ribosome-associated quality control mediates degradation of the premature translation termination product Orf1p of ODC antizyme mRNA." FEBS letters, 2021, pp. 2015-2033.
+
+[2] Scott, Madeline R, Meador-Woodruff, James H. "Intracellular compartment-specific proteasome dysfunction in postmortem cortex in schizophrenia subjects." Molecular psychiatry, 2020, pp. 776-790.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

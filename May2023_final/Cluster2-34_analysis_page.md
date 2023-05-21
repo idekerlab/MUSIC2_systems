@@ -22,6 +22,12 @@ The human protein system analyzed here consists of 14 proteins, with the majorit
 
 5. Watanabe, Y. (2012). Temporal and spatial regulation of targeting Aurora B to the inner centromere during the cell cycle. Cell Structure and Function, 37(1), 1-7. [DOI: 10.1247/csf.11040](https://doi.org/10.1247/csf.11040)
 
+### Validated References: 
+
+[1] Al-Khafaji, Ahmed S K, Marcus, Michael W, Davies, Michael P A, Risk, Janet M, Shaw, Richard J, Field, John K, Liloglou, Triantafillos. "<i>AURKA</i> mRNA expression is an independent predictor of poor prognosis in patients with non-small cell lung cancer." Oncology letters, 2017, pp. 4463-4468.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

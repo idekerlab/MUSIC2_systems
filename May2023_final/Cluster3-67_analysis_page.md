@@ -21,6 +21,14 @@ Given the known functions of RELB, KMT2E, and NCAPH, it is possible that this pr
 3. Hirano, T. (2016). Condensin-Based Chromosome Organization from Bacteria to Vertebrates. Cell, 164(5), 847-857. doi: 10.1016/j.cell.2016.01.033
 4. Zhang, Q., Wang, X., Cao, S., Sun, Y., He, X., Jiang, B., & Yu, Y. (2016). A critical role of Cyr61 in interleukin-17-dependent proliferation of fibroblast-like synoviocytes in rheumatoid arthritis. Arthritis and Rheumatism, 58(12), 3609-3619. doi: 10.1002/art.23959
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

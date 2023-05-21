@@ -22,6 +22,14 @@ The human protein system analyzed in this study consists of 35 proteins that are
 
 5. Nollen, E. A., & Morimoto, R. I. (2002). Chaperoning signaling pathways: molecular chaperones as stress-sensing 'heat shock' proteins. Journal of Cell Science, 115(Pt 14), 2809-2816. [DOI: 10.1242/jcs.00061](https://doi.org/10.1242/jcs.00061)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

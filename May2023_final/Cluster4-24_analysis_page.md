@@ -24,6 +24,14 @@ Based on the shared functions and cellular locations of these proteins, we propo
 
 5. Moughamian, A. J., & Holzbaur, E. L. (2012). Dynactin is required for transport initiation from the distal axon. *Neuron*, 74(2), 331-343. [DOI: 10.1016/j.neuron.2012.02.025](https://doi.org/10.1016/j.neuron.2012.02.025)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

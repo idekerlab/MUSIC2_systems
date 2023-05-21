@@ -18,6 +18,12 @@ References:
 
 4. Kadoch, C., & Crabtree, G. R. (2015). Mammalian SWI/SNF chromatin remodeling complexes and cancer: Mechanistic insights gained from human genomics. Science Advances, 1(5), e1500447. [DOI: 10.1126/sciadv.1500447](https://advances.sciencemag.org/content/1/5/e1500447)
 
+### Validated References: 
+
+[1] Ui, Ayako, Yasui, Akira. "Collaboration of MLLT1/ENL, Polycomb and ATM for transcription and genome integrity." Nucleus (Austin, Tex.), 2016, pp. 138-45.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

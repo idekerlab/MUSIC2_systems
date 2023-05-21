@@ -24,6 +24,14 @@ Given the shared features and functions of these proteins, we propose the name "
 
 4. Wotton, D., & Massagué, J. (2001). Smad transcriptional corepressors in TGF beta family signaling. *Current Topics in Microbiology and Immunology*, 254, 145-164. [DOI: 10.1007/978-3-642-56863-3_8](https://doi.org/10.1007/978-3-642-56863-3_8)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

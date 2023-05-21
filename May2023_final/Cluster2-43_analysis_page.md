@@ -19,6 +19,14 @@ The proteins GTF3C4 and GTF3C1 are both part of the transcription factor TFIIIC 
 3. Bischoff, F. R., & Ponstingl, H. (1991). Catalysis of guanine nucleotide exchange on Ran by the mitotic regulator RCC1. *Nature*, 354(6348), 80-82. doi:10.1038/354080a0
 4. Foltz, D. R., Jansen, L. E., Black, B. E., Bailey, A. O., Yates, J. R., & Cleveland, D. W. (2006). The human CENP-A centromeric nucleosome-associated complex. *Nature Cell Biology*, 8(5), 458-469. doi:10.1038/ncb1397
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

@@ -24,6 +24,14 @@ Given the involvement of SKIC3 and SKIC8 in the Ski complex and the biological p
 
 3. Shoemaker, C. J., & Green, R. (2012). Translation drives mRNA quality control. Nature Structural & Molecular Biology, 19(6), 594-601.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

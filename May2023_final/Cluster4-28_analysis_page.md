@@ -22,6 +22,14 @@ The human protein system under analysis consists of six proteins: TRRAP, KCTD15,
 
 5. Boudreault, A. A., Cronier, D., Selleck, W., Lacoste, N., Utley, R. T., Allard, S., ... & Côté, J. (2003). Yeast enhancer of polycomb defines global Esa1-dependent acetylation of chromatin. *Genes & Development*, 17(11), 1415-1428. [DOI: 10.1101/gad.1082003](https://doi.org/10.1101/gad.1082003)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

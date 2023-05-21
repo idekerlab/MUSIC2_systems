@@ -24,6 +24,14 @@ References:
 
 4. Kirchhausen, T., Owen, D., & Harrison, S. C. (2014). Molecular structure, function, and dynamics of clathrin-mediated membrane traffic. Cold Spring Harbor Perspectives in Biology, 6(5), a016725. [DOI: 10.1101/cshperspect.a016725](https://cshperspectives.cshlp.org/content/6/5/a016725)
 
+### Validated References: 
+
+[1] Esters, H, Alexandrov, K, Constantinescu, A T, Goody, R S, Scheidig, A J. "High-resolution crystal structure of S. cerevisiae Ypt51(DeltaC15)-GppNHp, a small GTP-binding protein involved in regulation of endocytosis." Journal of molecular biology, 2000, pp. 111-21.
+
+[2] Guruharsha, K G, Rual, Jean-François, Zhai, Bo, Mintseris, Julian, Vaidya, Pujita, Vaidya, Namita, Beekman, Chapman, Wong, Christina, Rhee, David Y, Cenaj, Odise, McKillip, Emily, Shah, Saumini, Stapleton, Mark, Wan, Kenneth H, Yu, Charles, Parsa, Bayan, Carlson, Joseph W, Chen, Xiao, Kapadia, Bhaveen, VijayRaghavan, K, Gygi, Steven P, Celniker, Susan E, Obar, Robert A, Artavanis-Tsakonas, Spyros. "A protein complex network of Drosophila melanogaster." Cell, 2011, pp. 690-703.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

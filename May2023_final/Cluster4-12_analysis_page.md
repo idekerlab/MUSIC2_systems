@@ -22,6 +22,14 @@ It is unclear if this is a novel complex or if any proteins are novel members of
 
 3. [STRING: functional protein association networks.](https://academic.oup.com/nar/article/45/W1/W362/3787862) Nucleic Acids Res. 2017 Jul 3;45(W1):W362-W368. doi: 10.1093/nar/gkx535.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

@@ -16,6 +16,14 @@ The analyzed human protein system consists of 46 proteins, many of which are inv
 2. [UniProt: a worldwide hub of protein knowledge.](https://academic.oup.com/nar/article/47/D1/D506/5146201) Nucleic Acids Res. 2019 Jan 8;47(D1):D506-D515.
 3. [The STRING database in 2017: quality-controlled protein-protein association networks, made broadly accessible.](https://academic.oup.com/nar/article/45/D1/D362/2605723) Nucleic Acids Res. 2017 Jan 4;45(D1):D362-D368.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

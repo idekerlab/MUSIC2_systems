@@ -22,6 +22,14 @@ While the proteins in this system are known to be involved in GPCR signaling, it
 
 3. Ritter, S. L., & Hall, R. A. (2009). Fine-tuning of GPCR activity by receptor-interacting proteins. Nature Reviews Molecular Cell Biology, 10(12), 819-830. [DOI: 10.1038/nrm2803](https://doi.org/10.1038/nrm2803)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

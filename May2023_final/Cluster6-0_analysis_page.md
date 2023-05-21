@@ -18,6 +18,12 @@ References:
 
 4. Zhou, M., Sandercock, A. M., Fraser, C. S., Ridlova, G., Stephens, E., Schenauer, M. R., ... & Robinson, C. V. (2008). Mass spectrometry reveals modularity and a complete subunit interaction map of the eukaryotic translation factor eIF3. Proceedings of the National Academy of Sciences, 105(47), 18139-18144. [DOI: 10.1073/pnas.0801313105](https://doi.org/10.1073/pnas.0801313105)
 
+### Validated References: 
+
+[1] Ray, Anirban, Bandyopadhyay, Amitabha, Matsumoto, Tomohiro, Deng, Haiteng, Maitra, Umadas. "Fission yeast translation initiation factor 3 subunit eIF3h is not essential for global translation initiation, but deletion of eif3h+ affects spore formation." Yeast (Chichester, England), 2008, pp. 809-23.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

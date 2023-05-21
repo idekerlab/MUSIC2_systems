@@ -36,6 +36,12 @@ Given the functions of these proteins, it is possible that this system represent
 
 8. Wang, H., Radjendirane, V., Wary, K. K., & Chakrabarty, S. (2004). Transforming growth factor β regulates cell-cell adhesion through extracellular matrix remodeling and activation of focal adhesion kinase in human colon carcinoma Moser cells. Oncogene, 23(29), 5558-5561.
 
+### Validated References: 
+
+[1] Shcherbakova, Liudmila, Pardo, Mercedes, Roumeliotis, Theodoros, Choudhary, Jyoti. "Identifying and characterising Thrap3, Bclaf1 and Erh interactions using cross-linking mass spectrometry." Wellcome open research, 2021, pp. 260.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

@@ -22,6 +22,14 @@ The presence of ERH, CCDC9B, and CCDC9 in this system suggests that it may be in
 4. Bengtson, M. H., & Joazeiro, C. A. (2010). Role of a ribosome-associated E3 ubiquitin ligase in protein quality control. *Nature*, 467(7314), 470-473. [https://doi.org/10.1038/nature09371](https://doi.org/10.1038/nature09371)
 5. Will, C. L., & Lührmann, R. (2011). Spliceosome structure and function. *Cold Spring Harbor Perspectives in Biology*, 3(7), a003707. [https://doi.org/10.1101/cshperspect.a003707](https://doi.org/10.1101/cshperspect.a003707)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

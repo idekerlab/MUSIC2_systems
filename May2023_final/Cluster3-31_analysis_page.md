@@ -24,6 +24,14 @@ Based on the cellular location and function of the proteins in this system, we p
 
 4. Doyon, Y., Selleck, W., Lane, W. S., Tan, S., & Côté, J. (2004). Structural and functional conservation of the NuA4 histone acetyltransferase complex from yeast to humans. Molecular and Cellular Biology, 24(5), 1884-1896. [DOI: 10.1128/MCB.24.5.1884-1896.2004](https://doi.org/10.1128/MCB.24.5.1884-1896.2004)
 
+### Validated References: 
+
+[1] Rashid, Nadia, Nigam, Aruna, Jain, S K, Naqvi, Samar Husain, Wajid, Saima. "Proteomic sift through serum and endometrium profiles unraveled signature proteins associated with subdued fertility and dampened endometrial receptivity in women with polycystic ovary syndrome." Cell and tissue research, 2020, pp. 593-614.
+
+[2] Vakifahmetoglu-Norberg, Helin, Zhivotovsky, Boris. "The unpredictable caspase-2: what can it do?" Trends in cell biology, 2010, pp. 150-9.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

@@ -20,6 +20,14 @@ References:
 
 5. Seaman MN. (2004). Cargo-selective endosomal sorting for retrieval to the Golgi requires retromer. J Cell Biol. 165(1):111-22. [DOI: 10.1083/jcb.200312034](https://doi.org/10.1083/jcb.200312034)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

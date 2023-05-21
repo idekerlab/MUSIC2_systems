@@ -24,6 +24,14 @@ The primary biological process performed by the Mitochondrial Small Ribosomal Su
 2. Greber, B. J., & Ban, N. (2016). Structure and function of the mitochondrial ribosome. *Annual Review of Biochemistry*, 85, 103-132. doi: 10.1146/annurev-biochem-060614-034301
 3. Mootha, V. K., Bunkenborg, J., Olsen, J. V., Hjerrild, M., Wisniewski, J. R., Stahl, E., ... & Mann, M. (2003). Integrated analysis of protein composition, tissue diversity, and gene regulation in mouse mitochondria. *Cell*, 115(5), 629-640. doi: 10.1016/S0092-8674(03)00926-7
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

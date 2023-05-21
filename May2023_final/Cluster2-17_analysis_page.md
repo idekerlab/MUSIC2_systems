@@ -20,6 +20,14 @@ The human protein system analyzed in this report is primarily involved in the mi
 6. [NADH dehydrogenase (ubiquinone) activity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3034881/)
 7. [Mitochondrial electron transport, NADH to ubiquinone](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3034881/)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

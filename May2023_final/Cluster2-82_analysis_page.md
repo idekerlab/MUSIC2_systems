@@ -24,6 +24,14 @@ Given the functions of these proteins, the system appears to be involved in the 
 
 4. van Dijk, J., Rogowski, K., Miro, J., Lacroix, B., Eddé, B., & Janke, C. (2007). A targeted multienzyme mechanism for selective microtubule polyglutamylation. *Molecular Cell*, 26(3), 437-448.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

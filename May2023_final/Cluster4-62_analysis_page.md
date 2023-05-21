@@ -26,6 +26,12 @@ References:
 
 4. Hawryluk-Gara, L. A., Shibuya, E. K., & Wozniak, R. W. (2005). Vertebrate Nup53 interacts with the nuclear lamina and is required for the assembly of a Nup93-containing complex. Molecular Biology of the Cell, 16(5), 2382-2394.
 
+### Validated References: 
+
+[1] Ma, Jiong, Kelich, Joseph M, Junod, Samuel L, Yang, Weidong. "Super-resolution mapping of scaffold nucleoporins in the nuclear pore complex." Journal of cell science, 2017, pp. 1299-1306.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

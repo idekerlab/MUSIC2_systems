@@ -26,6 +26,12 @@ Given the involvement of these proteins in known complexes and processes, it is 
 
 4. Enchev, R. I., Schulman, B. A., & Peter, M. (2015). Protein neddylation: beyond cullin-RING ligases. *Nature Reviews Molecular Cell Biology, 16*(1), 30-44. [DOI: 10.1038/nrm3919](https://doi.org/10.1038/nrm3919)
 
+### Validated References: 
+
+[1] Pache, Roland A, Aloy, Patrick. "Increasing the precision of orthology-based complex prediction through network alignment." PeerJ, 2014, pp. e413.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

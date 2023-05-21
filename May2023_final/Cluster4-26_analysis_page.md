@@ -18,6 +18,14 @@ References:
 2. [Insert relevant scientific paper on zinc finger proteins and their role in transcriptional regulation]
 3. [Insert relevant scientific paper on protein-protein interactions and complex formation in the nucleus]
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

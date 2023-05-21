@@ -26,6 +26,14 @@ Based on the cellular location and function, we propose the name "Cytosolic Amin
 
 5. Watanabe, K., & Yokobori, S. I. (2011). tRNA modification and genetic code variations in animal mitochondria. Journal of Nucleic Acids, 2011, 623095. [DOI: 10.4061/2011/623095](https://doi.org/10.4061/2011/623095)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

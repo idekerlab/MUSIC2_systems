@@ -24,6 +24,14 @@ Based on the cellular components and biological processes associated with these 
 
 4. Venteicher, A. S., Abreu, E. B., Meng, Z., McCann, K. E., Terns, R. M., Veenstra, T. D., ... & Artandi, S. E. (2009). A human telomerase holoenzyme protein required for Cajal body localization and telomere synthesis. *Science*, 323(5914), 644-648. [DOI: 10.1126/science.1165357](https://doi.org/10.1126/science.1165357)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

@@ -18,6 +18,14 @@ The human protein system analyzed here consists of 13 proteins, with a majority 
 4. Zhang, J., Kalkum, M., Chait, B. T., & Roeder, R. G. (2002). The N-CoR-HDAC3 nuclear receptor corepressor complex inhibits the JNK pathway through the integral subunit GPS2. Molecular cell, 9(3), 611–623. https://doi.org/10.1016/s1097-2765(02)00468-9
 5. Perissi, V., Scafoglio, C., Zhang, J., Ohgi, K. A., Rose, D. W., Glass, C. K., & Rosenfeld, M. G. (2008). TBL1 and TBLR1 phosphorylation on regulated gene promoters overcomes dual CtBP and NCoR/SMRT transcriptional repression checkpoints. Molecular cell, 29(6), 755–766. https://doi.org/10.1016/j.molcel.2008.01.020
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

@@ -26,6 +26,14 @@ Based on the cellular localization and functions of these proteins, we propose t
 6. Schwenk, J., Metz, M., Zolles, G., Turecek, R., Fritzius, T., Bildl, W., ... & Bettler, B. (2010). Native GABA(B) receptors are heteromultimers with a family of auxiliary subunits. Nature, 465(7295), 231-235.
 7. Koonin, E. V. (1996). Pseudouridine synthases: four families of enzymes containing a putative uridine-binding motif also conserved in dUTPases and dCTP deaminases. Nucleic Acids Research, 24(12), 2411-2415.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

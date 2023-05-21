@@ -28,6 +28,14 @@ The presence of CD63 and PMEPA1 in the endosome membrane and extracellular exoso
 
 6. Xu, J., Camfield, R., Gorski, S. M. (2018). The interplay between exosomes and autophagy – partners in crime. Journal of Cell Science, 131(15), jcs215210.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

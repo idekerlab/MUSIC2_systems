@@ -24,6 +24,14 @@ The Nucleoplasmic Transcription Repressor Complex is involved in several cellula
 
 5. Saksouk, N., Simboeck, E., & Déjardin, J. (2015). Constitutive heterochromatin formation and transcription in mammals. Epigenetics & Chromatin, 8(1), 3. [DOI: 10.1186/1756-8935-8-3](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/1756-8935-8-3)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

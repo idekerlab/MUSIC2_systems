@@ -22,6 +22,14 @@ Lastly, GNL1 and MPO are found in the extracellular space, suggesting that these
 2. Ashburner, M., Ball, C. A., Blake, J. A., Botstein, D., Butler, H., Cherry, J. M., ... & Sherlock, G. (2000). Gene ontology: tool for the unification of biology. Nature genetics, 25(1), 25-29. [https://doi.org/10.1038/75556](https://doi.org/10.1038/75556)
 3. The Gene Ontology Consortium. (2019). The Gene Ontology Resource: 20 years and still GOing strong. Nucleic Acids Research, 47(D1), D330-D338. [https://doi.org/10.1093/nar/gky1055](https://doi.org/10.1093/nar/gky1055)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

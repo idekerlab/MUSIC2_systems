@@ -26,6 +26,12 @@ Based on the cellular location and function, this system can be named the "Nucle
 
 5. Wu, Y., et al. (2012). The chromatin remodeling factor FACT contributes to centromeric heterochromatin independently of RNAi. *Current Biology*, 22(14), 1219-1225. [DOI: 10.1016/j.cub.2012.04.071](https://doi.org/10.1016/j.cub.2012.04.071)
 
+### Validated References: 
+
+[1] Luijsterburg, Martijn S, von Bornstaedt, Gesa, Gourdin, Audrey M, Politi, Antonio Z, Moné, Martijn J, Warmerdam, Daniël O, Goedhart, Joachim, Vermeulen, Wim, van Driel, Roel, Höfer, Thomas. "Stochastic and reversible assembly of a multiprotein DNA repair complex ensures accurate target site recognition and efficient repair." The Journal of cell biology, 2010, pp. 445-63.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

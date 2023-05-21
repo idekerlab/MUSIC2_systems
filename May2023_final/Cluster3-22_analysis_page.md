@@ -19,6 +19,16 @@ The mechanisms and biological processes performed by this system include transcr
 3. Spedale, G., Timmers, H. T., & Pijnappel, W. W. (2012). ATAC-king the complexity of SAGA during evolution. Genes & Development, 26(6), 527-541. [DOI: 10.1101/gad.186049.112](https://doi.org/10.1101/gad.186049.112)
 4. Thomas, M. C., & Chiang, C. M. (2006). The general transcription machinery and general cofactors. Critical Reviews in Biochemistry and Molecular Biology, 41(3), 105-178. [DOI: 10.1080/10409230600648736](https://doi.org/10.1080/10409230600648736)
 
+### Validated References: 
+
+[1] Guo, Zhu, Boekhoudt, Gunther H, Boss, Jeremy M. "Role of the intronic enhancer in tumor necrosis factor-mediated induction of manganous superoxide dismutase." The Journal of biological chemistry, 2003, pp. 23570-8.
+
+[2] Shen, Meili, Zhou, Tingting, Xie, Wenbing, Ling, Te, Zhu, Qiaoyun, Zong, Le, Lyu, Guoliang, Gao, Qianqian, Zhang, Feixiong, Tao, Wei. "The chromatin remodeling factor CSB recruits histone acetyltransferase PCAF to rRNA gene promoters in active state for transcription initiation." PloS one, 2013, pp. e62668.
+
+[3] Carey, Michael, Li, Bing, Workman, Jerry L. "RSC exploits histone acetylation to abrogate the nucleosomal block to RNA polymerase II elongation." Molecular cell, 2006, pp. 481-7.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

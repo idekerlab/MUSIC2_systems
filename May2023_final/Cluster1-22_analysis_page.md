@@ -22,6 +22,12 @@ The human protein system under analysis consists of six proteins: NUDT3, PCP4, E
 
 5. Will, C. L., & Lührmann, R. (2011). Spliceosome structure and function. *Cold Spring Harbor Perspectives in Biology*, 3(7), a003707. [DOI: 10.1101/cshperspect.a003707](https://doi.org/10.1101/cshperspect.a003707)
 
+### Validated References: 
+
+[1] Wood, Katherine A, Eadsforth, Megan A, Newman, William G, O'Keefe, Raymond T. "The Role of the U5 snRNP in Genetic Disorders and Cancer." Frontiers in genetics, 2021, pp. 636620.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

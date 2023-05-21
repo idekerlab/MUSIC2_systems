@@ -32,6 +32,14 @@ Based on the functions and localization of these proteins, we propose the name "
 
 7. Goyal, U., & Blackstone, C. (2013). Untangling the web: mechanisms underlying ER network formation. Biochimica et Biophysica Acta (BBA)-Molecular Cell Research, 1833(11), 2492-2498.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

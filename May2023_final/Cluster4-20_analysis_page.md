@@ -2,7 +2,7 @@
 
 ## Proteins: 
 
-SNW1, BCAS2, CCDC12, CWC25, CWF19L2, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SYF2
+BCAS2, CCDC12, CWC25, CWF19L2, PLRG1, PPIE, PRPF19, SNRPA1, SNRPB2, SNW1, SYF2
 
 Title: Human Nucleoplasmic Spliceosome Complex
 
@@ -21,6 +21,12 @@ Chan, S. P., Kao, D. I., Tsai, W. Y., & Cheng, S. C. (2003). The Prp19p-associat
 Wahl, M. C., Will, C. L., & Lührmann, R. (2009). The spliceosome: design principles of a dynamic RNP machine. Cell, 136(4), 701-718.
 
 Will, C. L., & Lührmann, R. (2011). Spliceosome structure and function. Cold Spring Harbor Perspectives in Biology, 3(7), a003707.
+
+### Validated References: 
+
+[1] Arfelli, Vanessa C, Chang, Yun-Chien, Bagnoli, Johannes W, Kerbs, Paul, Ciamponi, Felipe E, Paz, Laissa M da S, Pankivskyi, Serhii, de Matha Salone, Jean, Maucuer, Alexandre, Massirer, Katlin B, Enard, Wolfgang, Kuster, Bernhard, Greif, Philipp A, Archangelo, Leticia Fröhlich. "UHMK1 is a novel splicing regulatory kinase." The Journal of biological chemistry, 2023, pp. 103041.
+
+
 
 ## Gene Feature Summary: 
 

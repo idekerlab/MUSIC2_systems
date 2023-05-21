@@ -20,6 +20,14 @@ The human protein system analyzed here consists of five proteins: THOC2, THOC5, 
 
 4. Kim, S. A., Taylor, G. S., Torgersen, K. M., & Dixon, J. E. (2002). Myotubularin and MTMR2, phosphatidylinositol 3-phosphatases mutated in myotubular myopathy and type 4B Charcot-Marie-Tooth disease. Journal of Biological Chemistry, 277(6), 4526-4531. [DOI: 10.1074/jbc.M108938200](https://doi.org/10.1074/jbc.M108938200)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

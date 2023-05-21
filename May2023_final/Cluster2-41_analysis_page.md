@@ -22,6 +22,14 @@ The human protein system under analysis comprises of TRAPPC4, TLN1, NME2, NME1, 
 
 5. Bouchet, J., Del Río-Iñiguez, I., Lasserre, R., Agüera-Gonzalez, S., Cuche, C., Danckaert, A., ... & Alcover, A. (2016). Talin-KANK1 interaction controls the recruitment of cortical microtubule stabilizing complexes to focal adhesions. *eLife*, 5, e18124. [DOI: 10.7554/eLife.18124](https://doi.org/10.7554/eLife.18124)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

@@ -32,6 +32,14 @@ Based on the cellular location and function, we propose the name "Nucleocytoplas
 
 8. Zhang, J.,
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

@@ -24,6 +24,14 @@ The proteins RRAS2, RAB27B, GDI1, and GDI2 play crucial roles in GTPase activity
 
 4. Huttlin, E. L., Ting, L., Bruckner, R. J., Gebreab, F., Gygi, M. P., Szpyt, J., ... & Gygi, S. P. (2015). The BioPlex network: A systematic exploration of the human interactome. Cell, 162(2), 425-440. [DOI: 10.1016/j.cell.2015.06.043](https://doi.org/10.1016/j.cell.2015.06.043)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

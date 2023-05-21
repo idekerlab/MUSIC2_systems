@@ -30,6 +30,14 @@ Based on the cellular location and function, we propose the name "Nucleoplasmic 
 12. WDR81: [UniProtKB - Q8NBF2 (WDR81_HUMAN)](https://www.uniprot.org/uniprot/Q8NBF2)
 13. ZNF281: [UniProtKB - Q9ULJ3 (ZN281_HUMAN)](https://www.uniprot.org/uniprot/Q9ULJ3)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

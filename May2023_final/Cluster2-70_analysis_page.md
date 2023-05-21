@@ -26,6 +26,14 @@ Given the cellular location and function of these proteins, the proposed name fo
 
 4. Kessels, M. M., & Qualmann, B. (2002). Syndapins integrate N-WASP in receptor-mediated endocytosis. *The EMBO Journal*, 21(22), 6083-6094.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

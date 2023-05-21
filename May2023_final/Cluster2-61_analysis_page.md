@@ -19,6 +19,14 @@ Based on the shared functions and cellular localization of these proteins, it is
 3. Gopalan, V., Vioque, A., & Altman, S. (2002). RNase P: variations and uses. *Journal of Biological Chemistry*, 277(9), 6759-6762. [DOI: 10.1074/jbc.R100077200](https://doi.org/10.1074/jbc.R100077200)
 4. Walker, S. C., & Engelke, D. R. (2006). Ribonuclease P: the evolution of an ancient RNA enzyme. *Critical Reviews in Biochemistry and Molecular Biology*, 41(2), 77-102. [DOI: 10.1080/10409230600602634](https://doi.org/10.1080/10409230600602634)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

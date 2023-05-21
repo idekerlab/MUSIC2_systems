@@ -22,6 +22,14 @@ The presence of ZMYM3 and ZMYM6 in this system suggests that it is involved in c
 
 3. Li, D., Roberts, R., & WD-repeat proteins. (2001). WD-repeat proteins: structure characteristics, biological function, and their involvement in human diseases. Cellular and Molecular Life Sciences CMLS, 58(14), 2085-2097.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

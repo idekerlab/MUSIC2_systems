@@ -26,6 +26,14 @@ Other proteins in the system, such as KIF20A and PSME3, are involved in ATP bind
 
 4. Rechsteiner, M., & Hill, C. P. (2005). Mobilizing the proteolytic machine: cell biological roles of proteasome activators and inhibitors. *Trends in Cell Biology*, 15(1), 27-33. [DOI: 10.1016/j.tcb.2004.11.003](https://doi.org/10.1016/j.tcb.2004.11.003)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

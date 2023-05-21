@@ -28,6 +28,14 @@ References:
 
 5. Hille, R., & Nishino, T. (1995). Flavoprotein structure and mechanism. 4. Xanthine oxidase and xanthine dehydrogenase. FASEB Journal, 9(11), 995-1003. [DOI: 10.1096/fasebj.9.11.7649402](https://doi.org/10.1096/fasebj.9.11.7649402)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

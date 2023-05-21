@@ -20,6 +20,14 @@ The protein system under analysis consists of 11 human proteins, with the majori
 
 4. Kucharczyk, R., Zick, M., & Bietenhader, M. (2009). Mitochondrial ATP synthase disorders: molecular mechanisms and the quest for curative therapeutic approaches. Biochimica et Biophysica Acta (BBA) - Bioenergetics, 1793(1), 186-199. [DOI: 10.1016/j.bbamcr.2008.07.006](https://doi.org/10.1016/j.bbamcr.2008.07.006)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

@@ -32,6 +32,14 @@ The primary biological processes performed by this system are the negative regul
 
 6. Neudauer, C. L., et al. (2000). "Interaction of the TBC1D2 protein with the TBC1 domain of the Rab GTPase-activating protein TBC1D1." *Biochemical and Biophysical Research Communications*, 276(3), 877-884. [DOI: 10.1006/bbrc.2000.3569](https://doi.org/10.1006/bbrc.2000.3569)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

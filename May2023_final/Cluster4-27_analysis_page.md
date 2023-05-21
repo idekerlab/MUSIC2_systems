@@ -26,6 +26,18 @@ The primary biological processes performed by this system include negative regul
 
 3. Urrutia, R. (2003). KRAB-containing zinc-finger repressor proteins. *Genome Biology*, 4(10), 231. [DOI: 10.1186/gb-2003-4-10-231](https://doi.org/10.1186/gb-2003-4-10-231)
 
+### Validated References: 
+
+[1] Bishara, Laila A, Machour, Feras E, Awwad, Samah W, Ayoub, Nabieh. "NELF complex fosters BRCA1 and RAD51 recruitment to DNA damage sites and modulates sensitivity to PARP inhibition." DNA repair, 2021, pp. 103025.
+
+[2] Ghouraba, Mennatallah Hani, Masad, Razan Jamil, Mpingirika, Eric Zadok, Abdelraheem, Omnia Mahmoud, Zeghlache, Rached, Alserw, Aya M, Amleh, Asma. "Role of NELF-B in supporting epithelial-mesenchymal transition and cell proliferation during hepatocellular carcinoma progression." Oncology letters, 2021, pp. 761.
+
+[3] Mazina, Marina Yu, Kovalenko, Elena V, Vorobyeva, Nadezhda E. "The negative elongation factor NELF promotes induced transcriptional response of Drosophila ecdysone-dependent genes." Scientific reports, 2021, pp. 172.
+
+[4] Bishara, Laila A, Machour, Feras E, Awwad, Samah W, Ayoub, Nabieh. "NELF complex fosters BRCA1 and RAD51 recruitment to DNA damage sites and modulates sensitivity to PARP inhibition." DNA repair, 2021, pp. 103025.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

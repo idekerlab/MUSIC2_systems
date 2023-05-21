@@ -21,6 +21,12 @@ Given the prevalence of plasma membrane localization, calcium ion binding, and h
 3. Shapiro, L., & Love, J. (2007). The cadherin superfamily in neuronal connections and interactions. Nature Reviews Neuroscience, 8(1), 3-7. doi:10.1038/nrn2043
 4. Yagi, T., & Takeichi, M. (2000). Cadherin superfamily genes: functions, genomic organization, and neurologic diversity. Genes & Development, 14(10), 1169-1180. doi:10.1101/gad.14.10.1169
 
+### Validated References: 
+
+[1] Wang, Li-Chun, Kennedy, Timothy E, Almazan, Guillermina. "A novel function of TBK1 as a target of Cdon in oligodendrocyte differentiation and myelination." Journal of neurochemistry, 2017, pp. 451-462.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

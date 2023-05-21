@@ -26,6 +26,14 @@ The Cytoplasmic Protein Interaction System is involved in several mechanisms and
 4. Kobe, B., & Kajava, A. V. (2001). The leucine-rich repeat as a protein recognition motif. Current Opinion in Structural Biology, 11(6), 725-732. doi: 10.1016/s0959-440x(01)00266-4
 5. Cuenda, A., & Rousseau, S. (2007). p38 MAP-kinases pathway regulation, function and role in human diseases. Biochimica et Biophysica Acta (BBA) - Molecular Cell Research, 1773(8), 1358-1375. doi: 10.1016/j.bbamcr.2007.03.010
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

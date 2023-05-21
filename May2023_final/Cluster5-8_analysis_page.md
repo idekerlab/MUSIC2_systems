@@ -32,6 +32,18 @@ The Cytosolic Kinetochore-Associated Cell Division System is involved in the reg
 
 5. Wieser, R., Wrana, J. L., & Massagué, J. (1995). GS domain mutations that constitutively activate T beta R-I, the downstream signaling component in the TGF-beta receptor complex. The EMBO Journal, 14(10), 2199-2208.
 
+### Validated References: 
+
+[1] Kudalkar, Emily M, Scarborough, Emily A, Umbreit, Neil T, Zelter, Alex, Gestaut, Daniel R, Riffle, Michael, Johnson, Richard S, MacCoss, Michael J, Asbury, Charles L, Davis, Trisha N. "Regulation of outer kinetochore Ndc80 complex-based microtubule attachments by the central kinetochore Mis12/MIND complex." Proceedings of the National Academy of Sciences of the United States of America, 2015, pp. E5583-9.
+
+[2] Malvezzi, Francesca, Litos, Gabriele, Schleiffer, Alexander, Heuck, Alexander, Mechtler, Karl, Clausen, Tim, Westermann, Stefan. "A structural basis for kinetochore recruitment of the Ndc80 complex via two distinct centromere receptors." The EMBO journal, 2013, pp. 409-23.
+
+[3] Kudalkar, Emily M, Scarborough, Emily A, Umbreit, Neil T, Zelter, Alex, Gestaut, Daniel R, Riffle, Michael, Johnson, Richard S, MacCoss, Michael J, Asbury, Charles L, Davis, Trisha N. "Regulation of outer kinetochore Ndc80 complex-based microtubule attachments by the central kinetochore Mis12/MIND complex." Proceedings of the National Academy of Sciences of the United States of America, 2015, pp. E5583-9.
+
+[4] Malvezzi, Francesca, Litos, Gabriele, Schleiffer, Alexander, Heuck, Alexander, Mechtler, Karl, Clausen, Tim, Westermann, Stefan. "A structural basis for kinetochore recruitment of the Ndc80 complex via two distinct centromere receptors." The EMBO journal, 2013, pp. 409-23.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

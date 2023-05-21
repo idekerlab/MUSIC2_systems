@@ -20,6 +20,12 @@ The human protein system analyzed in this report consists of 36 proteins involve
 
 4. [Bieniossek, C., Papai, G., Schaffitzel, C., Garzoni, F., Chaillet, M., Scheer, E., ... & Schultz, P. (2013). The architecture of human general transcription factor TFIID core complex. Nature, 493(7434), 699-702.](https://www.nature.com/articles/nature11791)
 
+### Validated References: 
+
+[1] Lee, Daeyoup, Ezhkova, Elena, Li, Bing, Pattenden, Samantha G, Tansey, William P, Workman, Jerry L. "The proteasome regulatory particle alters the SAGA coactivator to enhance its interactions with transcriptional activators." Cell, 2005, pp. 423-36.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

@@ -24,6 +24,14 @@ The presence of HAUS1 and HAUS2 in this system suggests that it is related to th
 
 4. Adams, M. E., & Froehner, S. C. (1995). Syntrophin: a modular adapter protein. *Trends in Cell Biology*, 5(11), 409-412.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

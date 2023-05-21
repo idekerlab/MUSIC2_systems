@@ -31,6 +31,14 @@ The Cytosolic RNA-Binding Protein System is involved in various biological proce
 9. Sim, S., & Wolin, S. L. (2011). Emerging roles for the Ro 60-kDa autoantigen in noncoding RNA metabolism. *Wiley Interdisciplinary Reviews: RNA*, 2(5), 686-699.
 10. Liao, W., Lin, J. X., & Leonard, W. J. (2013). Interleukin-2 at the crossroads of effector responses, tolerance, and immunotherapy. *Immunity*, 38(1), 13-25.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

@@ -22,6 +22,14 @@ References:
 
 5. Chen, W., & Moore, M. J. (2015). The spliceosome: disorder and dynamics defined. Current Opinion in Structural Biology, 36, 9-16. [DOI: 10.1016/j.sbi.2015.07.006](https://doi.org/10.1016/j.sbi.2015.07.006)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

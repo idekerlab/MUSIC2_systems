@@ -28,6 +28,14 @@ The human protein system analyzed in this report consists of 29 proteins, many o
 
 8. Vannini, A. (2013). A structural perspective on RNA polymerase III transcription. Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms, 1829(3-4), 318-324. [DOI: 10.1016/j.bbagrm.2012.10.012](https://doi.org/10.1016/j.bbagrm.2012.10.012)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

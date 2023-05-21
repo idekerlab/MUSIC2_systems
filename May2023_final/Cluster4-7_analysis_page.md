@@ -20,6 +20,14 @@ The human protein system analyzed here consists of 27 proteins involved in prote
 
 4. Warner, J. R., & McIntosh, K. B. (2009). How common are extraribosomal functions of ribosomal proteins?. Molecular cell, 34(1), 3-11. [DOI: 10.1016/j.molcel.2009.03.006](https://doi.org/10.1016/j.molcel.2009.03.006)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

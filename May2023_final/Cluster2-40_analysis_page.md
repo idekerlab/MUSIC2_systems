@@ -30,6 +30,14 @@ Given the functions and cellular locations of the proteins in this system, it is
 10. [TTLL4 - tubulin tyrosine ligase like 4](https://www.ncbi.nlm.nih.gov/gene/23093)
 11. [ZNFX1 - zinc finger NFX1-type containing 1](https://www.ncbi.nlm.nih.gov/gene/24140)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

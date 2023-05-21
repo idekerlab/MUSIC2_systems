@@ -26,6 +26,14 @@ GFOD1, although not directly involved in GTPase regulation, may have a role in t
 
 4. Cherfils, J., & Zeghouf, M. (2013). Regulation of small GTPases by GEFs, GAPs, and GDIs. Physiological Reviews, 93(1), 269-309.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

@@ -24,6 +24,14 @@ The Nucleocytoplasmic Protein Interaction System appears to be involved in vario
 
 4. Chen, Y., Yang, Y., van Overbeek, M., Donigian, J. R., Baciu, P., de Lange, T., & Lei, M. (2008). A shared docking motif in TRF1 and TRF2 used for differential recruitment of telomeric proteins. *Science*, 319(5866), 1092-1096. [DOI: 10.1126/science.1151804](https://doi.org/10.1126/science.1151804)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

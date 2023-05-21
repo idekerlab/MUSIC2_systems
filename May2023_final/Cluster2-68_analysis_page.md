@@ -27,6 +27,14 @@ Based on the functions and interactions of these proteins, we propose the name "
 7. Boye, K., & Maelandsmo, G. M. (2010). S100A4 and metastasis: a small actor playing many roles. *The American Journal of Pathology*, 176(2), 528-535.
 8. Li, Z. H., et al. (2003). The calcium-binding protein S100A4 (p9Ka) increases the migratory potential of rat astrocytes in vitro and in vivo. *Journal of Neurochemistry*, 87(2), 317-328.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

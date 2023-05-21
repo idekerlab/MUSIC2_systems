@@ -24,6 +24,12 @@ The proteins in this system are STAG2, RANGRF, MPLKIP, STN1, RNF220, MTMR7, CLP1
 
 5. Coin, F., Marinoni, J. C., Rodolfo, C., Fribourg, S., Pedrini, A. M., & Egly, J. M. (1998). Mutations in the XPD helicase gene result in XP and TTD phenotypes, preventing interaction between XPD and the p44 subunit of TFIIH. Nature genetics, 20(2), 184-188. [DOI: 10.1038/2491](https://doi.org/10.1038/2491)
 
+### Validated References: 
+
+[1] Gu, Peili, Jia, Shuting, Takasugi, Taylor, Smith, Eric, Nandakumar, Jayakrishnan, Hendrickson, Eric, Chang, Sandy. "CTC1-STN1 coordinates G- and C-strand synthesis to regulate telomere length." Aging cell, 2018, pp. e12783.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

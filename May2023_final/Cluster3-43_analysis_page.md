@@ -22,6 +22,14 @@ The human protein system under analysis consists of ten proteins: XAB2, CTNNBL1,
 
 5. Wang, Q., He, J., Lynn, B., & Rymond, B. C. (2005). Interactions of the yeast SF3b splicing factor. Molecular and Cellular Biology, 25(24), 10745-10754. [DOI: 10.1128/MCB.25.24.10745-10754.2005](https://doi.org/10.1128/MCB.25.24.10745-10754.2005)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

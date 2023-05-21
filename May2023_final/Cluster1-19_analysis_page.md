@@ -22,6 +22,14 @@ To determine if this is a novel complex or if any proteins are novel members of 
 
 3. Teraoka, H., Nishida, K., & Nagano, A. J. (2018). CLASRP, a novel conserved RNA-binding protein required for correct development of Arabidopsis thaliana. *Scientific Reports*, 8(1), 1-14. [DOI: 10.1038/s41598-018-31166-0](https://doi.org/10.1038/s41598-018-31166-0)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

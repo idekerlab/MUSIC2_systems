@@ -25,6 +25,14 @@ Given the cellular location and function of these proteins, we propose the name 
 7. [Chromatin organization and transcription regulation by RNA polymerase II](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3413102/)
 8. [Histone deacetylase complexes and their role in transcription regulation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2731683/)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

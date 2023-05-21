@@ -22,6 +22,14 @@ This system is likely not a novel complex, as many of the proteins are known mem
 4. Wood, R. D., Mitchell, M., Sgouros, J., & Lindahl, T. (2001). Human DNA repair genes. Science, 291(5507), 1284-1289. doi: 10.1126/science.1056154
 5. Zeman, M. K., & Cimprich, K. A. (2014). Causes and consequences of replication stress. Nature Cell Biology, 16(1), 2-9. doi: 10.1038/ncb2897
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

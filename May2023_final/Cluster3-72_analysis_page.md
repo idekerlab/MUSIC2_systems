@@ -33,6 +33,12 @@ PSME3IP1, also known as PA28γ, is a proteasome activator involved in the regula
 3. Ornitz, D. M., & Itoh, N. (2015). The Fibroblast Growth Factor signaling pathway. Wiley Interdisciplinary Reviews: Developmental Biology, 4(3), 215-266. doi:10.1002/wdev.176
 4. Li, J., Powell, S. R., & Wang, X. (2011). Enhancement of proteasome function by PA28α overexpression protects against oxidative stress. The FASEB Journal, 25(3), 883-893. doi:10.1096/fj.10-171983
 
+### Validated References: 
+
+[1] Ding, Bi-Sen, Gomi, Kazunori, Rafii, Shahin, Crystal, Ronald G, Walters, Matthew S. "Endothelial MMP14 is required for endothelial-dependent growth support of human airway basal cells." Journal of cell science, 2015, pp. 2983-8.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

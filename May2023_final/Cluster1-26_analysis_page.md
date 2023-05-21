@@ -24,6 +24,12 @@ Considering the functions and interactions of these proteins, it is possible tha
 
 4. Wang, X., Wang, Z., Wang, J., Li, J., Huang, Z., Shi, H., & Xu, W. (2016). DTWD1, a novel protein containing a D-TWIM and a DWD domain, functions as a transcriptional activator and is involved in the regulation of cell growth. *Biochemical and Biophysical Research Communications*, 478(4), 1574-1580.
 
+### Validated References: 
+
+[1] Liebelt, Frauke, Jansen, Nicolette S, Kumar, Sumit, Gracheva, Ekaterina, Claessens, Laura A, Verlaan-de Vries, Matty, Willemstein, Edwin, Vertegaal, Alfred C O. "The poly-SUMO2/3 protease SENP6 enables assembly of the constitutive centromere-associated network by group deSUMOylation." Nature communications, 2019, pp. 3987.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

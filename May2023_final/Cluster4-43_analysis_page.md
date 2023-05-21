@@ -23,6 +23,14 @@ The presence of identical protein binding properties in DPYSL2 and DPYSL3 sugges
 3. Dan, I., Watanabe, N. M., & Kusumi, A. (2001). The Ste20 group kinases as regulators of MAP kinase cascades. *Trends in Cell Biology*, 11(5), 220-230.
 4. Yoshimura, T., Kawano, Y., Arimura, N., Kawabata, S., Kikuchi, A., & Kaibuchi, K. (2005). GSK-3β regulates phosphorylation of CRMP-2 and neuronal polarity. *Cell*, 120(1), 137-149.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

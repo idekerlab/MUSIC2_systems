@@ -24,6 +24,14 @@ The Nuclear Chromatin Remodeling and Transcription Regulation System is involved
 
 5. Gerhold, C. B., & Gasser, S. M. (2014). INO80 and SWR complexes: relating structure to function in chromatin remodeling. *Trends in Cell Biology*, 24(11), 619-631. [DOI: 10.1016/j.tcb.2014.06.004](https://doi.org/10.1016/j.tcb.2014.06.004)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

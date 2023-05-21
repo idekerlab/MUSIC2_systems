@@ -24,6 +24,14 @@ The proteins in this system are involved in several biological processes, includ
 
 5. Silverstein, R. A., & Ekwall, K. (2005). Sin3: a flexible regulator of global gene expression and genome stability. *Current Genetics*, 47(1), 1-17. [DOI: 10.1007/s00294-004-0535-3](https://doi.org/10.1007/s00294-004-0535-3)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

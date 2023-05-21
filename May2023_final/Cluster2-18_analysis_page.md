@@ -21,6 +21,12 @@ Based on the cellular location and function of the proteins in this system, we p
 3. Sweeney, H. L., & Houdusse, A. (2010). Structural and functional insights into the Myosin motor mechanism. Annual Review of Biophysics, 39, 539-557. doi:10.1146/annurev.biophys.050708.133751
 4. Vicente-Manzanares, M., Ma, X., Adelstein, R. S., & Horwitz, A. R. (2009). Non-muscle myosin II takes centre stage in cell adhesion and migration. Nature Reviews Molecular Cell Biology, 10(11), 778-790. doi:10.1038/nrm2786
 
+### Validated References: 
+
+[1] Wu, Lianqun, Zhang, Shujie, Li, Xiuyi, Yao, Jing, Ling, Ling, Huang, Xiao, Hu, Chunchun, Zhang, Yihan, Sun, Xiantao, Qin, Bing, Liu, Guohua, Zhao, Chen. "Integrative transcriptomics and proteomic analysis of extraocular muscles from patients with thyroid-associated ophthalmopathy." Experimental eye research, 2020, pp. 107962.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

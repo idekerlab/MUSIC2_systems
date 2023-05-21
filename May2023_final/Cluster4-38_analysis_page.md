@@ -23,6 +23,14 @@ References:
 3. Ma, J., Ptashne, M., & Gann, A. (1993). Deletion analysis of GAL4 defines two transcriptional activating segments. Cell, 75(5), 847-858.
 4. Wiedmann, B., Sakai, H., Davis, T. A., & Wiedmann, M. (1994). A protein complex required for signal-sequence-specific sorting and translocation. Nature, 370(6484), 434-440.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

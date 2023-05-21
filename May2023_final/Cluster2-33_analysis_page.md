@@ -26,6 +26,12 @@ The biological processes performed by this system include protein folding, chape
 
 5. Kampinga, H. H., & Craig, E. A. (2010). The HSP70 chaperone machinery: J proteins as drivers of functional specificity. *Nature Reviews Molecular Cell Biology*, 11(8), 579-592. [DOI: 10.1038/nrm2941](https://doi.org/10.1038/nrm2941)
 
+### Validated References: 
+
+[1] Carter, D A. "Modulation of cellular AP-1 DNA binding activity by heat shock proteins." FEBS letters, 1997, pp. 81-5.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

@@ -2,7 +2,7 @@
 
 ## Proteins: 
 
-ZNF446, TGIF2, SCAND1, CHTOP, RCL1
+CHTOP, RCL1, SCAND1, TGIF2, ZNF446
 
 ### Nucleoplasmic Transcription Regulators
 
@@ -21,6 +21,14 @@ The human protein system under investigation consists of five proteins: ZNF446, 
 4. Hall, L. E., Mitchell, S. E., O'Neill, L. P., & Turner, B. M. (2006). Distinctive patterns of transcription and RNA processing for human lincRNAs. *Molecular Cell*, 23(3), 735-745. [Link](https://www.cell.com/molecular-cell/fulltext/S1097-2765(06)00020-9)
 
 5. Prieto, J. L., & McStay, B. (2007). Recruitment of factors linking transcription and processing of pre-rRNA to NOR chromatin is UBF-dependent and occurs independent of transcription in human cells. *Genes & Development*, 21(16), 2041-2054. [Link](https://genesdev.cshlp.org/content/21/16/2041.long)
+
+### Validated References: 
+
+None
+
+
+
+
 
 ## Gene Feature Summary: 
 

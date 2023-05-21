@@ -21,6 +21,14 @@ Based on the analysis, this system appears to be a known complex involved in lys
 3. Rebsamen, M., Pochini, L., Stasyk, T., de Araújo, M. E., Galluccio, M., Kandasamy, R. K., ... & Superti-Furga, G. (2015). SLC38A9 is a component of the lysosomal amino acid sensing machinery that controls mTORC1. Nature, 519(7544), 477-481.
 4. Pu, J., Schindler, C., Jia, R., Jarnik, M., Backlund, P., & Bonifacino, J. S. (2015). BORC, a multisubunit complex that regulates lysosome positioning. Developmental cell, 33(2), 176-188.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

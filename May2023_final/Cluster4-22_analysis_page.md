@@ -26,6 +26,14 @@ References:
 
 4. Yamakami, M., Yoshimori, T., & Yokosawa, H. (2003). Tom1, a VHS domain-containing protein, interacts with tollip, ubiquitin, and clathrin. *Journal of Biological Chemistry*, 278(52), 52865-52872. [DOI: 10.1074/jbc.M309796200](https://doi.org/10.1074/jbc.M309796200)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

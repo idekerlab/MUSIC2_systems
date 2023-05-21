@@ -22,6 +22,12 @@ The cellular components and complexes involved in this system include the cytoso
 4. Gabay, M., et al. (2011). Ric-8 proteins are molecular chaperones that direct nascent G protein α subunit membrane association. *Science Signaling*, 4(200), ra79.
 5. Pérez-Guijarro, E., et al. (2016). Lineage-specific roles of the cytoplasmic polyadenylation factor CPEB4 in the regulation of melanoma drivers. *Nature Communications*, 7, 13418.
 
+### Validated References: 
+
+[1] Deng, Yun, He, Rongquan, Zhang, Rui, Gan, Binliang, Zhang, Yu, Chen, Gang, Hu, Xiaohua. "The expression of HOXA13 in lung adenocarcinoma and its clinical significance: A study based on The Cancer Genome Atlas, Oncomine and reverse transcription-quantitative polymerase chain reaction." Oncology letters, 2018, pp. 8556-8572.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

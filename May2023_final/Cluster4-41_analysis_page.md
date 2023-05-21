@@ -28,6 +28,14 @@ To determine if this is a novel complex or if any proteins are novel members of 
 8. Paetzel, M., Karla, A., Strynadka, N. C., & Dalbey, R. E. (2002). Signal peptidases. Chemical Reviews, 102(12), 4549-4580.
 9. Shorter, J., & Warren, G. (2002). Golgi architecture and inheritance. Annual Review of Cell and
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

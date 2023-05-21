@@ -30,6 +30,14 @@ Based on the cellular location and function, this system can be named the "Membr
 
 7. Tiganis, T. (2013). PTP1B and TCPTP: regulators of transformation and tumorigenesis. *Cancer Cell*, 24(2), 214-229. [DOI: 10.1016/j.ccr.2013.06.017](https://doi.org/10.1016/j.ccr.2013.06.017)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

@@ -22,6 +22,14 @@ Given the known interactions and functions of these proteins, it is likely that 
 
 3. Ito, H., Morishita, R., Shinoda, T., Iwamoto, I., Sudo, K., Okamoto, K., ... & Nagata, K. (2014). Dysbindin-1, WAVE2 and Abi-1 form a complex that regulates dendritic spine formation. *Molecular Psychiatry*, 19(10), 1104-1114.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

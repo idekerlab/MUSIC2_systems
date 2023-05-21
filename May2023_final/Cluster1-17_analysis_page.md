@@ -22,6 +22,16 @@ The human protein system analyzed here consists of ATAD5, CHTF18, DSCC1, RAD17, 
 
 5. Zou, L., & Elledge, S. J. (2003). Sensing DNA damage through ATRIP recognition of RPA-ssDNA complexes. *Science*, 300(5625), 1542-1548. [DOI: 10.1126/science.1083430](https://doi.org/10.1126/science.1083430)
 
+### Validated References: 
+
+[1] Wessel, Sarah R, Mohni, Kareem N, Luzwick, Jessica W, Dungrawala, Huzefa, Cortez, David. "Functional Analysis of the Replication Fork Proteome Identifies BET Proteins as PCNA Regulators." Cell reports, 2019, pp. 3497-3509.e4.
+
+[2] Shkedy, Dganit, Singh, Nishant, Shemesh, Keren, Amir, Ayelet, Geiger, Tamar, Liefshitz, Batia, Harari, Yaniv, Kupiec, Martin. "Regulation of Elg1 activity by phosphorylation." Cell cycle (Georgetown, Tex.), 2015, pp. 3689-97.
+
+[3] Gazy, Inbal, Liefshitz, Batia, Parnas, Oren, Kupiec, Martin. "Elg1, a central player in genome stability." Mutation research. Reviews in mutation research, 2015, pp. 267-79.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

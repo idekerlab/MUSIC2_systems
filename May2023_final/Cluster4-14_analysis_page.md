@@ -26,6 +26,14 @@ The ASAP complex, consisting of SAP18 and ACIN1, is a known component of this sy
 
 6. Luttrell, L. M., et al. (1999). β-Arrestin-dependent formation of β2 adrenergic receptor-Src protein kinase complexes. *Science*, 283(5402), 655-661. [DOI: 10.1126/science.283.5402.655](https://doi.org/10.1126/science.283.5402.655)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

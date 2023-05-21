@@ -29,6 +29,14 @@ This protein system is involved in several biological processes, including cell 
 7. Park, P. W., Pier, G. B., Hinkes, M. T., & Bernfield, M. (2001). Exploitation of syndecan-1 shedding by Pseudomonas aeruginosa enhances virulence. Nature, 411(6833), 98-102.
 8. Tkachenko, E., Rhodes, J. M., & Simons, M. (2005). Syndecans: new kids on the signaling block. Circulation Research, 96(5), 488-500.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

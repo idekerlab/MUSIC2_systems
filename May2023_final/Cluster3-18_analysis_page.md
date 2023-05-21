@@ -15,6 +15,14 @@ The Nuclear Protein Interaction System in Transcription Regulation (NPISTR) is a
 - Gene Ontology Consortium. (2021). Gene Ontology: Enriching our understanding of biology. Nucleic Acids Research, 49(D1), D325-D334. [DOI: 10.1093/nar/gkaa1113](https://doi.org/10.1093/nar/gkaa1113)
 - Szklarczyk, D., Gable, A. L., Lyon, D., Junge, A., Wyder, S., Huerta-Cepas, J., ... & Mering, C. V. (2019). STRING v11: protein-protein association networks with increased coverage, supporting functional discovery in genome-wide experimental datasets. Nucleic Acids Research, 47(D1), D607-D613. [DOI: 10.1093/nar/gky1131](https://doi.org/10.1093/nar/gky1131)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

@@ -31,6 +31,16 @@ Given the involvement of BLZF1 and SDF4 in the regulation of the Golgi apparatus
 7. Sbodio, J. I., et al. (2006). Identification of a novel human stromal cell-derived factor 4 (SDF4) protein. Biochemical and Biophysical Research Communications, 339(3), 805-813.
 8. Sbodio, J. I., et al. (2008). SDF4 induction and Golgi reorganization by ethanol in hepatocytes. Biochemical and Biophysical Research Communications, 376(2), 300-305.
 
+### Validated References: 
+
+[1] Gromova, Kira V, Muhia, Mary, Rothammer, Nicola, Gee, Christine E, Thies, Edda, Schaefer, Irina, Kress, Sabrina, Kilimann, Manfred W, Shevchuk, Olga, Oertner, Thomas G, Kneussel, Matthias. "Neurobeachin and the Kinesin KIF21B Are Critical for Endocytic Recycling of NMDA Receptors and Regulate Social Behavior." Cell reports, 2018, pp. 2705-2717.
+
+[2] Hu, Ling-Yueh, Chang, Che-Chang, Huang, Yen-Sung, Chou, Wen-Cheng, Lin, Ying-Mei, Ho, Chun-Chen, Chen, Wei-Ting, Shih, Hsiu-Ming, Hsiung, Chia-Ni, Wu, Pei-Ei, Shen, Chen-Yang. "SUMOylation of XRCC1 activated by poly (ADP-ribosyl)ation regulates DNA repair." Human molecular genetics, 2018, pp. 2306-2317.
+
+[3] Ashraf, Shazia, Deshpande, Neha, Vasanth, Shivakumar, Melangath, Geetha, Wong, Raymond J, Zhao, Yan, Price, Marianne O, Price, Francis W, Jurkunas, Ula V. "Dysregulation of DNA repair genes in Fuchs endothelial corneal dystrophy." Experimental eye research, 2023, pp. 109499.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

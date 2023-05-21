@@ -22,6 +22,14 @@ Eitoku, M., Sato, L., Senda, T., & Horikoshi, M. (2008). Histone chaperones: 30 
 
 Wu, J., Tolstykh, T., Lee, J., Boyd, K., Stock, J. B., & Broach, J. R. (2000). Carboxyl methylation of the phosphoprotein phosphatase 2A catalytic subunit promotes its functional association with regulatory subunits in vivo. *The EMBO Journal*, 19(21), 5672-5681.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

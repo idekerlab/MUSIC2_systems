@@ -24,6 +24,14 @@ The AP-1 complex is not a novel complex, as it has been extensively studied in t
 
 5. Hess, J., Angel, P., & Schorpp-Kistner, M. (2004). AP-1 subunits: quarrel and harmony among siblings. *Journal of Cell Science*, 117(25), 5965-5973. [DOI: 10.1242/jcs.01589](https://doi.org/10.1242/jcs.01589)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

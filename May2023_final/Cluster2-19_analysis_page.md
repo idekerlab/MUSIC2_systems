@@ -20,6 +20,14 @@ The human protein system analyzed here consists of 39 proteins, which are involv
 
 4. Morgan, D. O. (2007). The cell cycle: principles of control. *New Science Press*.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

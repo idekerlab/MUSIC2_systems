@@ -40,6 +40,14 @@ The Nucleoplasmic Gene Regulation Complex is involved in several key biological 
 
 10. Rowe, H. M., et al. (2013). KAP1 controls endogenous retroviruses in embryonic stem cells. *Nature*, 463(7278), 237-240.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

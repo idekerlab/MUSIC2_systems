@@ -24,6 +24,14 @@ Based on these findings, we propose the name "Membrane-Associated Protein Comple
 
 5. Wojcikiewicz, R. J., Furuichi, T., Nakade, S., Mikoshiba, K., & Nahorski, S. R. (1994). Muscarinic receptor activation down-regulates the type I inositol 1,4,5-trisphosphate receptor by accelerating its degradation. *The Journal of Biological Chemistry*, 269(12), 7963-7969. [Link](https://www.jbc.org/article/S0021-9258(17)36577-4/abstract)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

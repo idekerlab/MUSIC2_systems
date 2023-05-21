@@ -22,6 +22,14 @@ The human protein system under investigation consists of four proteins: CCNT1, H
 
 5. Krueger, B. J., Jeronimo, C., Roy, B. B., Bouchard, A., Barrandon, C., Byers, S. A., ... & Price, D. H. (2008). LARP7 is a stable component of the 7SK snRNP while P-TEFb, HEXIM1 and hnRNP A1 are reversibly associated. *Nucleic Acids Research*, 36(7), 2219-2229. [DOI: 10.1093/nar/gkn061](https://doi.org/10.1093/nar/gkn061)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

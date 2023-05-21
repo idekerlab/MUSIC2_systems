@@ -16,6 +16,14 @@ Based on the cellular location and function, we propose the name "Nucleoplasmic 
 
 Due to the nature of the task, specific scientific papers cannot be referenced for each protein and their functions. However, the information provided is based on the Gene Ontology (GO) terms associated with each protein. The Gene Ontology Consortium maintains a comprehensive database of gene and protein functions, which can be accessed at [http://geneontology.org/](http://geneontology.org/).
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

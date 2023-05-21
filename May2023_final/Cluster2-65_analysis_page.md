@@ -32,6 +32,14 @@ The Mitochondrial-Cytosolic Protein Interaction System is involved in various me
 
 5. Xie, Q., Wu, Q., Horbinski, C. M., Flavahan, W. A., Yang, K., Zhou, W., ... & Rich, J. N. (2015). Mitochondrial control by DRP1 in brain tumor initiating cells. *Nature Neuroscience*, 18(4), 501-510.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

@@ -28,6 +28,14 @@ Based on the cellular location and function of the proteins in this system, we p
 
 6. Komander, D., et al. (2009). The structure of the CYLD USP domain explains its specificity for Lys63-linked polyubiquitin and reveals a B box module. *Molecular Cell*, 29(4), 451-464. [DOI: 10.1016/j.molcel.2007.12.018](https://doi.org/10.1016/j.molcel.2007.12.018)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

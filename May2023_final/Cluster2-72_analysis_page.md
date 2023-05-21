@@ -26,6 +26,14 @@ Based on the cellular location and function of these proteins, we propose the na
 
 4. Matthews, J. M., & Visvader, J. E. (2003). LIM-domain-binding protein 1: a multifunctional cofactor that interacts with diverse proteins. *EMBO reports*, 4(12), 1132-1137.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

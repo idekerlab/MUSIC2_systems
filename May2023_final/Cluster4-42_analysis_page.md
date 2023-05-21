@@ -22,6 +22,14 @@ The presence of three proteins (CDK7, PLCD3, and VANGL1) at the plasma membrane 
 4. Vannahme, C., Smyth, N., Miosge, N., Gosling, S., Frie, C., Paulsson, M., ... & Maurer, P. (2002). Characterization of SMOC-1, a Novel Modular Calcium-Binding Protein in Basement Membranes. *Journal of Biological Chemistry*, 277(41), 37977-37986. doi: 10.1074/jbc.M203830200
 5. Montcouquiol, M., Rachel, R. A., Lanford, P. J., Copeland, N. G., Jenkins, N. A., & Kelley, M. W. (2003). Identification of Vangl2 and Scrb1 as Planar Polarity Genes in Mammals. *Nature*, 423(6936), 173-177. doi: 10.1038/nature01618
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

@@ -26,6 +26,14 @@ Given the involvement of these proteins in protein folding and regulation, it is
 
 5. Saibil, H. (2013). Chaperone machines for protein folding, unfolding and disaggregation. Nature Reviews Molecular Cell Biology, 14(10), 630-642. [DOI: 10.1038/nrm3658](https://doi.org/10.1038/nrm3658)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

@@ -22,6 +22,14 @@ Given the cellular locations and functions of these proteins, we propose the nam
 
 4. Rolland, T., Taşan, M., Charloteaux, B., Pevzner, S. J., Zhong, Q., Sahni, N., ... & Vidal, M. (2014). A proteome-scale map of the human interactome network. *Cell*, 159(5), 1212-1226. [Link](https://www.cell.com/cell/fulltext/S0092-8674(14)01456-4)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

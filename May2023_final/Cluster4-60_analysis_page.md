@@ -26,6 +26,12 @@ References:
 
 4. Montcouquiol, M., Rachel, R. A., Lanford, P. J., Copeland, N. G., Jenkins, N. A., & Kelley, M. W. (2003). Identification of Vangl2 and Scrb1 as planar polarity genes in mammals. Nature, 423(6936), 173-177.
 
+### Validated References: 
+
+[1] Coly, Pierre-Michaël, Perzo, Nicolas, Le Joncour, Vadim, Lecointre, Céline, Schouft, Marie-Thérèse, Desrues, Laurence, Tonon, Marie-Christine, Wurtz, Olivier, Gandolfo, Pierrick, Castel, Hélène, Morin, Fabrice. "Chemotactic G protein-coupled receptors control cell migration by repressing autophagosome biogenesis." Autophagy, 2016, pp. 2344-2362.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

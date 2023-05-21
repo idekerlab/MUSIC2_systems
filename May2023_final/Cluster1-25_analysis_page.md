@@ -26,6 +26,12 @@ Given the known interactions and functions of these proteins, it is likely that 
 
 4. Li, Y., Wei, Z., Yan, Y., Wan, Q., Du, Q., & Zhang, M. (2014). Structure of Crumbs tail in complex with the PALS1 PDZ-SH3-GK tandem reveals a highly specific assembly mechanism for the apical Crumbs complex. Proceedings of the National Academy of Sciences, 111(49), 17444-17449.
 
+### Validated References: 
+
+[1] Li, Xiaojuan, Li, Hao, Yang, Caihong, Liu, Liu, Deng, Sisi, Li, Mi. "Comprehensive Analysis of ATP6V1s Family Members in Renal Clear Cell Carcinoma With Prognostic Values." Frontiers in oncology, 2020, pp. 567970.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

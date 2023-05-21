@@ -23,6 +23,14 @@ Based on the analysis of the proteins and their functions, it is possible that t
 3. Bar-Peled, L., Schweitzer, L. D., Zoncu, R., & Sabatini, D. M. (2012). Ragulator is a GEF for the rag GTPases that signal amino acid levels to mTORC1. Cell, 150(6), 1196-1208. doi:10.1016/j.cell.2012.07.032
 4. Sancak, Y., Bar-Peled, L., Zoncu, R., Markhard, A. L., Nada, S., & Sabatini, D. M. (2010). Ragulator-Rag complex targets mTORC1 to the lysosomal surface and is necessary for its activation by amino acids. Cell, 141(2), 290-303. doi:10.1016/j.cell.2010.02.024
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

@@ -20,6 +20,14 @@ The human protein system analyzed consists of WDR5, KMT2B, ASH2L, ATN1, KANSL1, 
 
 4. Smith, E. R., Cayrou, C., Huang, R., Lane, W. S., Côté, J., & Lucchesi, J. C. (2005). A human protein complex homologous to the Drosophila MSL complex is responsible for the majority of histone H4 acetylation at lysine 16. *Molecular and Cellular Biology*, 25(21), 9175-9188. [DOI: 10.1128/MCB.25.21.9175-9188.2005](https://doi.org/10.1128/MCB.25.21.9175-9188.2005)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

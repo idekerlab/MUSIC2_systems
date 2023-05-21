@@ -26,6 +26,18 @@ Given the cellular location and function of these proteins, we propose the name 
 
 4. Penning, T. M. (2015). The aldo-keto reductases (AKRs): Overview. Chemico-Biological Interactions, 234, 236-246.
 
+### Validated References: 
+
+[1] Sekine, Yuji, Yamamoto, Kouhei, Kurata, Morito, Honda, Ayaka, Onishi, Iichiroh, Kinowaki, Yuko, Kawade, Genji, Watabe, Shiori, Nomura, Serina, Fukuda, Sho, Ishibashi, Sachiko, Ikeda, Masumi, Yamamoto, Masahide, Kitagawa, Masanobu. "HADHB, a fatty acid beta-oxidation enzyme, is a potential prognostic predictor in malignant lymphoma." Pathology, 2022, pp. 286-293.
+
+[2] Diebold, Isabel, Schön, Ulrike, Horvath, Rita, Schwartz, Oliver, Holinski-Feder, Elke, Kölbel, Heike, Abicht, Angela. "HADHA and HADHB gene associated phenotypes - Identification of rare variants in a patient cohort by Next Generation Sequencing." Molecular and cellular probes, 2019, pp. 14-20.
+
+[3] Yamamoto, Yuki, Matsui, Naoko, Hiramatsu, Yu, Miyazaki, Yoshimichi, Nodera, Hiroyuki, Izumi, Yuishin, Takashima, Hiroshi, Kaji, Ryuji. "[Mitochondrial trifunctional protein deficiency: an adult patient with similar progress to Charcot-Marie-Tooth disease]." Rinsho shinkeigaku = Clinical neurology, 2017, pp. 82-87.
+
+[4] Liewluck, Teerin, Mundi, Manpreet S, Mauermann, Michelle L. "Mitochondrial trifunctional protein deficiency: a rare cause of adult-onset rhabdomyolysis." Muscle & nerve, 2013, pp. 989-91.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

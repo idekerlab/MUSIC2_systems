@@ -26,6 +26,14 @@ The human protein system analyzed here consists of ATP6V1A, ATP6V0D2, CCDC115, A
 
 7. Beutler, E. (1994). G6PD deficiency. *Blood*, 84(11), 3613-3636. [DOI: 10.1182/blood.V84.11.3613.bloodjournal84113613](https://doi.org/10.1182/blood.V84.11.3613.bloodjournal84113613)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

@@ -26,6 +26,12 @@ Given the involvement of these proteins in centriole and cytoskeleton organizati
 
 5. Bilgüvar, K., Oztürk, A. K., Louvi, A., Kwan, K. Y., Choi, M., Tatli, B., ... & Lifton, R. P. (2010). Whole-exome sequencing identifies recessive WDR62 mutations in severe brain malformations. Nature, 467(7312), 207-210.
 
+### Validated References: 
+
+[1] Kodani, Andrew, Kenny, Connor, Lai, Abbe, Gonzalez, Dilenny M, Stronge, Edward, Sejourne, Gabrielle M, Isacco, Laura, Partlow, Jennifer N, O'Donnell, Anne, McWalter, Kirsty, Byrne, Alicia B, Barkovich, A James, Yang, Edward, Hill, R Sean, Gawlinski, Pawel, Wiszniewski, Wojciech, Cohen, Julie S, Fatemi, S Ali, Baranano, Kristin W, Sahin, Mustafa, Vossler, David G, Yuskaitis, Christopher J, Walsh, Christopher A. "Posterior Neocortex-Specific Regulation of Neuronal Migration by CEP85L Identifies Maternal Centriole-Dependent Activation of CDK5." Neuron, 2020, pp. 246-255.e6.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

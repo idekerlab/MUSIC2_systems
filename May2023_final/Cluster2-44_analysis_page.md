@@ -20,6 +20,14 @@ The proteins in this system are involved in various cellular components and comp
 4. Goley, E. D., & Welch, M. D. (2006). The ARP2/3 complex: an actin nucleator comes of age. Nature Reviews Molecular Cell Biology, 7(10), 713-726. [DOI: 10.1038/nrm2026](https://doi.org/10.1038/nrm2026)
 5. White, C. D., Erdemir, H. H., & Sacks, D. B. (2012). IQGAP1 and its binding proteins control diverse biological functions. Cellular Signalling, 24(4), 826-834. [DOI: 10.1016/j.cellsig.2011.12.005](https://doi.org/10.1016/j.cellsig.2011.12.005)
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

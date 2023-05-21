@@ -26,6 +26,14 @@ References:
 
 4. Zhang, Q., Wang, X., & Cao, S. (2016). WSB1 overcomes oncogene-induced senescence by targeting ATM for degradation. Cell Research, 26(1), 7-20.
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

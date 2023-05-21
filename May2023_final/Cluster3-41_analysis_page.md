@@ -24,6 +24,12 @@ Based on the analysis, this system appears to be primarily involved in GPCR sign
 
 5. Lefkowitz, R. J. (2004). Historical review: A brief history and personal retrospective of seven-transmembrane receptors. Trends in Pharmacological Sciences, 25(8), 413-422. [DOI: 10.1016/j.tips.2004.06.006](https://doi.org/10.1016/j.tips.2004.06.006)
 
+### Validated References: 
+
+[1] Tennakoon, Mithila, Senarath, Kanishka, Kankanamge, Dinesh, Chadee, Deborah N, Karunarathne, Ajith. "A short C-terminal peptide in Gγ regulates Gβγ signaling efficacy." Molecular biology of the cell, 2021, pp. 1446-1458.
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |

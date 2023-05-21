@@ -34,6 +34,14 @@ The proteins in this system perform various mechanisms and biological processes.
 
 7. Yamada, K., Matsushima
 
+### Validated References: 
+
+None
+
+
+
+
+
 ## Gene Feature Summary: 
 
 | Feature | Number of Genes | Genes |
